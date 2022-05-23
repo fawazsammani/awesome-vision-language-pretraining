@@ -34,6 +34,22 @@ If you find some overlooked papers, please open issues or pull requests
 - **[VLMo]** Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts [[pdf]](https://arxiv.org/pdf/2111.02358.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/vlmo)
 - **[METER]** An Empirical Study of Training End-to-End Vision-and-Language Transformers [[pdf]](https://arxiv.org/pdf/2111.02387.pdf) [[code]](https://github.com/zdou0830/METER)
 - **[WenLan]** Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training [[pdf]](https://arxiv.org/pdf/2103.06561.pdf)
+- **[InterBERT]** Vision-and-Language Interaction for Multi-modal Pretraining [[pdf]](https://arxiv.org/pdf/2003.13198.pdf)
+- **[SemVLP]** Vision-Language Pre-training by Aligning Semantics at Multiple Levels [[pdf]](https://arxiv.org/pdf/2103.07829.pdf)
+- **[E2E-VLP]** End-to-End Vision-Language Pre-training Enhanced by Visual Learning [[pdf]](https://arxiv.org/pdf/2106.01804.pdf) 
+- **[VinVL]** Revisiting Visual Representations in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2101.00529.pdf) [[code]](https://github.com/microsoft/Oscar) [[code]](https://github.com/pzzhang/VinVL)
+- **[UFO]** A UniFied TransfOrmer for Vision-Language Representation Learning [[pdf]](https://arxiv.org/pdf/2111.10023.pdf)
+- **[Florence]** A New Foundation Model for Computer Vision [[pdf]](https://arxiv.org/pdf/2111.11432.pdf)
+- **[VILLA]** Large-Scale Adversarial Training for Vision-and-Language Representation Learning [[pdf]](https://arxiv.org/pdf/2006.06195.pdf) [[code]](https://github.com/zhegan27/VILLA)
+- **[TDEN]** Scheduled Sampling in Vision-Language Pretraining with Decoupled Encoder-Decoder Network [[pdf]](https://arxiv.org/pdf/2101.11562.pdf) [[code]](https://github.com/YehLi/TDEN)
+- **[ERNIE-ViL]** Knowledge Enhanced Vision-Language Representations Through Scene Graph [[pdf]](https://arxiv.org/pdf/2006.16934.pdf)
+- **[Vokenization]** Improving Language Understanding with Contextualized, Visual-Grounded Supervision [[pdf]](https://arxiv.org/pdf/2010.06775.pdf) [[code]](https://github.com/airsplay/vokenization)
+- **[12-in-1]** Multi-Task Vision and Language Representation Learning [[pdf]](https://arxiv.org/pdf/1912.02315.pdf) [[code]](https://github.com/facebookresearch/vilbert-multi-task)
+- **[KVL-BERT]** Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning [[pdf]](https://arxiv.org/pdf/2012.07000.pdf)
+- **[Oscar]** Object-Semantics Aligned Pre-training for Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2004.06165.pdf) [[code]](https://github.com/microsoft/Oscar)
+- **[VIVO]** Visual Vocabulary Pre-Training for Novel Object Captioning [[pdf]](https://arxiv.org/pdf/2009.13682.pdf)
+- **[SOHO]** End-to-End Pre-training for Vision-Language Representation Learning [[pdf]](https://arxiv.org/pdf/2104.03135.pdf) [[code]](https://github.com/researchmm/soho)
+- **[Pixel-BERT]** Aligning Image Pixels with Text by Deep Multi-Modal Transformers [[pdf]](https://arxiv.org/pdf/2004.00849.pdf)
 - **[]** Name [[pdf]]() [[code]]()
 - **[]** Name [[pdf]]() [[code]]()
 - **[]** Name [[pdf]]() [[code]]()
@@ -50,23 +66,27 @@ If you find some overlooked papers, please open issues or pull requests
 - **[]** Name [[pdf]]() [[code]]()
 - **[]** Name [[pdf]]() [[code]]()
 - **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
+- Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
+- A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
+- Unifying Vision-and-Language Tasks via Text Generation [[pdf]](https://arxiv.org/pdf/2102.02779.pdf) [[code]](https://github.com/j-min/VL-T5)
+- Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2106.13488.pdf) 
 - Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs [[pdf]](https://arxiv.org/pdf/2011.15124.pdf) 
 - Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions [[pdf]](https://arxiv.org/pdf/2010.12831.pdf)
+- Crossing the Format Boundary of Text and Boxes: Towards Unified Vision-Language Modeling [[pdf]](https://arxiv.org/pdf/2111.12085.pdf)
 
 # CLIP
-
+- **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP)
+- **[ALIGN]** Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[pdf]](https://arxiv.org/pdf/2102.05918.pdf)
 - **[LiT]** Zero-Shot Transfer with Locked-image text Tuning [[pdf]](https://arxiv.org/pdf/2111.07991.pdf) 
+- **[X-CLIP]** Variants of CLIP [[code]](https://github.com/lucidrains/x-clip)
+
 
 # DALL-E 
 
+# New Large-Scale Datasets
+- **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
+- [LAION](https://laion.ai/#top)
+- **[Conceptual 12M]** Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts [[pdf]](https://arxiv.org/pdf/2102.08981.pdf) [[code]](https://github.com/google-research-datasets/conceptual-12m)
 
 ## Libraries
 - [X-modaler](https://github.com/YehLi/xmodaler)
