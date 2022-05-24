@@ -84,7 +84,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Cross-Modal Textual and Visual Context for Image Captioning [[pdf]](https://arxiv.org/pdf/2205.04363.pdf)
 - Multi-modal Alignment using Representation Codebook [[pdf]](https://arxiv.org/pdf/2203.00048.pdf)
 
-# CLIP and Improvements
+## CLIP and Improvements
 - **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP) [[code]](https://github.com/mlfoundations/open_clip) [[code]](https://github.com/Zasder3/train-CLIP) [[website]](https://openai.com/blog/clip/)
 - **[ALIGN]** Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[pdf]](https://arxiv.org/pdf/2102.05918.pdf)
 - **[DeCLIP]** Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[pdf]](https://arxiv.org/pdf/2110.05208.pdf) [[code]](https://github.com/Sense-GVT/DeCLIP)
@@ -95,20 +95,18 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
 
-# DALL-E 
-
-# New Large-Scale Datasets
+## New Large-Scale Datasets
 - **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
 - **[LAION]** [website](https://laion.ai/#top)
 - **[Conceptual 12M]** Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts [[pdf]](https://arxiv.org/pdf/2102.08981.pdf) [[code]](https://github.com/google-research-datasets/conceptual-12m)
 
-## Libraries
+### Libraries
 - [X-modaler](https://github.com/YehLi/xmodaler)
 - [Transformers-VQA](https://github.com/YIKUAN8/Transformers-VQA)
 - [MMT-Retrieval](https://github.com/UKPLab/MMT-Retrieval)
 - [MMF](https://github.com/facebookresearch/mmf)
 
-## Other Awesomes
+### Other Awesomes
 - [vqa](https://github.com/jokieleung/awesome-visual-question-answering)
 - [image captioning](https://github.com/forence/Awesome-Visual-Captioning)
 - [image captioning](https://github.com/zhjohnchan/awesome-image-captioning)
