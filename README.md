@@ -50,8 +50,8 @@ If you find some overlooked papers, please open issues or pull requests
 - **[VIVO]** Visual Vocabulary Pre-Training for Novel Object Captioning [[pdf]](https://arxiv.org/pdf/2009.13682.pdf)
 - **[SOHO]** End-to-End Pre-training for Vision-Language Representation Learning [[pdf]](https://arxiv.org/pdf/2104.03135.pdf) [[code]](https://github.com/researchmm/soho)
 - **[Pixel-BERT]** Aligning Image Pixels with Text by Deep Multi-Modal Transformers [[pdf]](https://arxiv.org/pdf/2004.00849.pdf)
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
+- **[ImageGPT]** Generative Pretraining from Pixels [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[code]](https://github.com/openai/image-gpt) [[code]](https://github.com/karpathy/minGPT) [[website]](https://openai.com/blog/image-gpt/)
+- **[CLIP-ViL]** How Much Can CLIP Benefit Vision-and-Language Tasks? [[pdf]](https://arxiv.org/pdf/2107.06383.pdf) [[code]](https://github.com/clip-vil/CLIP-ViL)
 - **[]** Name [[pdf]]() [[code]]()
 - **[]** Name [[pdf]]() [[code]]()
 - **[]** Name [[pdf]]() [[code]]()
@@ -75,17 +75,18 @@ If you find some overlooked papers, please open issues or pull requests
 - Crossing the Format Boundary of Text and Boxes: Towards Unified Vision-Language Modeling [[pdf]](https://arxiv.org/pdf/2111.12085.pdf)
 
 # CLIP
-- **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP)
+- **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP) [[code]](https://github.com/mlfoundations/open_clip) [[code]](https://github.com/Zasder3/train-CLIP) [[website]](https://openai.com/blog/clip/)
 - **[ALIGN]** Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[pdf]](https://arxiv.org/pdf/2102.05918.pdf)
+- **[DeCLIP]** Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[pdf]](https://arxiv.org/pdf/2110.05208.pdf) [[code]](https://github.com/Sense-GVT/DeCLIP)
 - **[LiT]** Zero-Shot Transfer with Locked-image text Tuning [[pdf]](https://arxiv.org/pdf/2111.07991.pdf) 
 - **[X-CLIP]** Variants of CLIP [[code]](https://github.com/lucidrains/x-clip)
-
+- **[CLIP Retrieval]** [[blog]](https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c) [[code]](https://github.com/rom1504/clip-retrieval)
 
 # DALL-E 
 
 # New Large-Scale Datasets
 - **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
-- [LAION](https://laion.ai/#top)
+- **[LAION]** [website](https://laion.ai/#top)
 - **[Conceptual 12M]** Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts [[pdf]](https://arxiv.org/pdf/2102.08981.pdf) [[code]](https://github.com/google-research-datasets/conceptual-12m)
 
 ## Libraries
