@@ -52,16 +52,15 @@ If you find some overlooked papers, please open issues or pull requests
 - **[Pixel-BERT]** Aligning Image Pixels with Text by Deep Multi-Modal Transformers [[pdf]](https://arxiv.org/pdf/2004.00849.pdf)
 - **[ImageGPT]** Generative Pretraining from Pixels [[pdf]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[code]](https://github.com/openai/image-gpt) [[code]](https://github.com/karpathy/minGPT) [[website]](https://openai.com/blog/image-gpt/)
 - **[CLIP-ViL]** How Much Can CLIP Benefit Vision-and-Language Tasks? [[pdf]](https://arxiv.org/pdf/2107.06383.pdf) [[code]](https://github.com/clip-vil/CLIP-ViL)
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
+- **[VLKD]** Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation [[pdf]](https://arxiv.org/pdf/2203.06386.pdf)
+- **[LightningDOT]** Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval [[pdf]](https://arxiv.org/pdf/2103.08784.pdf) [[code]](https://github.com/intersun/LightningDOT)
+- **[VirTex]** Learning Visual Representations from Textual Annotations [[pdf]](https://arxiv.org/pdf/2006.06666.pdf) [[code]](https://github.com/kdexd/virtex)
+- **[CoOp]** Learning to Prompt for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2109.01134.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
+- **[CoCoOp]** Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
+- **[Uni-Perceiver]** Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks [[pdf]](https://arxiv.org/pdf/2112.01522.pdf)
+- **[CoCa]** Contrastive Captioners are Image-Text Foundation Models [[pdf]](https://arxiv.org/pdf/2205.01917.pdf) [[code]](https://github.com/lucidrains/CoCa-pytorch)
+- **[Flamingo]** A Visual Language Model for Few-Shot Learning [[pdf]](https://arxiv.org/pdf/2204.14198.pdf) [[code]](https://github.com/lucidrains/flamingo-pytorch) [[website]](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
+- **[UniCL]** Unified Contrastive Learning in Image-Text-Label Space [[pdf]](https://arxiv.org/pdf/2204.03610.pdf) [[code]](https://github.com/microsoft/UniCL)
 - **[]** Name [[pdf]]() [[code]]()
 - **[]** Name [[pdf]]() [[code]]()
 - **[]** Name [[pdf]]() [[code]]()
@@ -73,6 +72,7 @@ If you find some overlooked papers, please open issues or pull requests
 - Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs [[pdf]](https://arxiv.org/pdf/2011.15124.pdf) 
 - Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions [[pdf]](https://arxiv.org/pdf/2010.12831.pdf)
 - Crossing the Format Boundary of Text and Boxes: Towards Unified Vision-Language Modeling [[pdf]](https://arxiv.org/pdf/2111.12085.pdf)
+- Cross-Modal Textual and Visual Context for Image Captioning [[pdf]](https://arxiv.org/pdf/2205.04363.pdf)
 
 # CLIP
 - **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP) [[code]](https://github.com/mlfoundations/open_clip) [[code]](https://github.com/Zasder3/train-CLIP) [[website]](https://openai.com/blog/clip/)
@@ -81,6 +81,9 @@ If you find some overlooked papers, please open issues or pull requests
 - **[LiT]** Zero-Shot Transfer with Locked-image text Tuning [[pdf]](https://arxiv.org/pdf/2111.07991.pdf) 
 - **[X-CLIP]** Variants of CLIP [[code]](https://github.com/lucidrains/x-clip)
 - **[CLIP Retrieval]** [[blog]](https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c) [[code]](https://github.com/rom1504/clip-retrieval)
+- **[E-CLIP]** Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling [[pdf]](https://arxiv.org/pdf/2109.04699.pdf)
+- [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
+
 
 # DALL-E 
 
