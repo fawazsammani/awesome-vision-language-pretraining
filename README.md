@@ -64,10 +64,14 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CoCa]** Contrastive Captioners are Image-Text Foundation Models [[pdf]](https://arxiv.org/pdf/2205.01917.pdf) [[code]](https://github.com/lucidrains/CoCa-pytorch)
 - **[Flamingo]** A Visual Language Model for Few-Shot Learning [[pdf]](https://arxiv.org/pdf/2204.14198.pdf) [[code]](https://github.com/lucidrains/flamingo-pytorch) [[website]](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
 - **[UniCL]** Unified Contrastive Learning in Image-Text-Label Space [[pdf]](https://arxiv.org/pdf/2204.03610.pdf) [[code]](https://github.com/microsoft/UniCL)
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
-- **[]** Name [[pdf]]() [[code]]()
+- **[UVLP]** Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment [[pdf]](https://arxiv.org/pdf/2203.00242.pdf)
+- **[GPV-1]** An End-to-End Task-Agnostic Vision-Language Architecture [[pdf]](https://arxiv.org/pdf/2104.00743.pdf) [[code]](https://github.com/allenai/gpv-1/) [[website]](https://prior.allenai.org/projects/gpv)
+- **[TCL]** Vision-Language Pre-Training with Triple Contrastive Learning [[pdf]](https://arxiv.org/pdf/2202.10401.pdf) [[code]](https://github.com/uta-smile/TCL)
+- **[L-Verse]** Bidirectional Generation Between Image and Text [[pdf]](https://arxiv.org/pdf/2111.11133.pdf)
+- **[FLAVA]** A Foundational Language And Vision Alignment Model [[pdf]](https://arxiv.org/pdf/2112.04482.pdf) [[website]](https://flava-model.github.io/)
+- **[COTS]** Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval [[pdf]](https://arxiv.org/pdf/2204.07441.pdf)
+- **[VL-ADAPTER]** Parameter-Efficient Transfer Learning for Vision-and-Language Tasks [[pdf]](https://arxiv.org/pdf/2112.06825.pdf) [[code]](https://github.com/ylsung/VL_adapter)
+- **[Winoground]** Probing Vision and Language Models for Visio-Linguistic Compositionality [[pdf]](https://arxiv.org/pdf/2204.03162.pdf) [[dataset]](https://huggingface.co/datasets/facebook/winoground)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
 - Unifying Vision-and-Language Tasks via Text Generation [[pdf]](https://arxiv.org/pdf/2102.02779.pdf) [[code]](https://github.com/j-min/VL-T5)
@@ -76,8 +80,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions [[pdf]](https://arxiv.org/pdf/2010.12831.pdf)
 - Crossing the Format Boundary of Text and Boxes: Towards Unified Vision-Language Modeling [[pdf]](https://arxiv.org/pdf/2111.12085.pdf)
 - Cross-Modal Textual and Visual Context for Image Captioning [[pdf]](https://arxiv.org/pdf/2205.04363.pdf)
+- Multi-modal Alignment using Representation Codebook [[pdf]](https://arxiv.org/pdf/2203.00048.pdf)
 
-# CLIP
+# CLIP and Improvements
 - **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP) [[code]](https://github.com/mlfoundations/open_clip) [[code]](https://github.com/Zasder3/train-CLIP) [[website]](https://openai.com/blog/clip/)
 - **[ALIGN]** Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[pdf]](https://arxiv.org/pdf/2102.05918.pdf)
 - **[DeCLIP]** Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[pdf]](https://arxiv.org/pdf/2110.05208.pdf) [[code]](https://github.com/Sense-GVT/DeCLIP)
@@ -85,8 +90,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[X-CLIP]** Variants of CLIP [[code]](https://github.com/lucidrains/x-clip)
 - **[CLIP Retrieval]** [[blog]](https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c) [[code]](https://github.com/rom1504/clip-retrieval)
 - **[E-CLIP]** Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling [[pdf]](https://arxiv.org/pdf/2109.04699.pdf)
+- Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
-
 
 # DALL-E 
 
