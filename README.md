@@ -4,7 +4,7 @@ Pretraining is blowing the field of Vision-Language Research! Let's keep track o
 
 If you find some overlooked papers, please open issues or pull requests, and provide the paper(s) in this format:
 ```
-- **[Model Name]** Paper Name [[pdf]](pdf link) [[code]](code link if available)
+- **[]** Paper Name [[pdf]]() [[code]]()
 ```
 
 ## Papers
