@@ -2,7 +2,10 @@
 
 Pretraining is blowing the field of Vision-Language Research! Let's keep track on all the works before it gets too late! Papers not based on pretraining can be found in other awesomes linked at the end of the repo. 
 
-If you find some overlooked papers, please open issues or pull requests
+If you find some overlooked papers, please open issues or pull requests, and provide the paper(s) in this format:
+```
+- **[Model Name]** Paper Name [[pdf]](pdf link) [[code]](code link if available)
+```
 
 ## Papers
 
