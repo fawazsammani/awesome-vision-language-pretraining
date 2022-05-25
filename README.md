@@ -71,7 +71,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FLAVA]** A Foundational Language And Vision Alignment Model [[pdf]](https://arxiv.org/pdf/2112.04482.pdf) [[website]](https://flava-model.github.io/)
 - **[COTS]** Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval [[pdf]](https://arxiv.org/pdf/2204.07441.pdf)
 - **[VL-ADAPTER]** Parameter-Efficient Transfer Learning for Vision-and-Language Tasks [[pdf]](https://arxiv.org/pdf/2112.06825.pdf) [[code]](https://github.com/ylsung/VL_adapter)
-- **[Winoground]** Probing Vision and Language Models for Visio-Linguistic Compositionality [[pdf]](https://arxiv.org/pdf/2204.03162.pdf) [[dataset]](https://huggingface.co/datasets/facebook/winoground)
 - **[DALL-E]** Zero-Shot Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2102.12092.pdf) [[code]](https://github.com/openai/DALL-E) [[code]](https://github.com/borisdayma/dalle-mini) [[code]](https://github.com/lucidrains/DALLE-pytorch) [[code]](https://github.com/robvanvolt/DALLE-models) [[code]](https://github.com/kakaobrain/minDALL-E) [[video]](https://www.youtube.com/watch?v=j4xgkjWlfL4&t=1432s&ab_channel=YannicKilcher) [[blog]](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini--Vmlldzo4NjIxODA) [[blog]](https://ml.berkeley.edu/blog/posts/vq-vae/) [[website]](https://openai.com/blog/dall-e/)
 - **[DALL-E-2]** Hierarchical Text-Conditional Image Generation with CLIP Latents [[pdf]](https://arxiv.org/pdf/2204.06125.pdf) [[code]](https://github.com/lucidrains/DALLE2-pytorch) [[website]](https://openai.com/dall-e-2/)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
@@ -95,10 +94,18 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
 
+## Diffusion-based
+- CLIP-Guided Diffusion [code](https://github.com/afiaka87/clip-guided-diffusion) [code](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [code](https://github.com/crowsonkb/v-diffusion-pytorch)
+- **[LDMs]** High-Resolution Image Synthesis with Latent Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10752.pdf) [[code]](https://github.com/CompVis/latent-diffusion)
+- **[GLIDE]** Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10741.pdf) [[code]](https://github.com/openai/glide-text2im)
+- **[DiffusionCLIP]** Text-Guided Diffusion Models for Robust Image Manipulation [[pdf]])(https://arxiv.org/pdf/2110.02711.pdf) [[code]](https://github.com/gwang-kim/DiffusionCLIP)
+- **[Imagen]** Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [[pdf]](https://arxiv.org/pdf/2205.11487.pdf) [[code]](https://github.com/lucidrains/imagen-pytorch) [[website]](https://imagen.research.google/)
+
 ## New Large-Scale Datasets
 - **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
 - **[LAION]** [website](https://laion.ai/#top)
 - **[Conceptual 12M]** Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts [[pdf]](https://arxiv.org/pdf/2102.08981.pdf) [[code]](https://github.com/google-research-datasets/conceptual-12m)
+- **[Winoground]** Probing Vision and Language Models for Visio-Linguistic Compositionality [[pdf]](https://arxiv.org/pdf/2204.03162.pdf) [[dataset]](https://huggingface.co/datasets/facebook/winoground)
 
 ### Libraries
 - [X-modaler](https://github.com/YehLi/xmodaler)
