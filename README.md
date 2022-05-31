@@ -84,6 +84,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Crossing the Format Boundary of Text and Boxes: Towards Unified Vision-Language Modeling [[pdf]](https://arxiv.org/pdf/2111.12085.pdf)
 - Cross-Modal Textual and Visual Context for Image Captioning [[pdf]](https://arxiv.org/pdf/2205.04363.pdf)
 - Multi-modal Alignment using Representation Codebook [[pdf]](https://arxiv.org/pdf/2203.00048.pdf)
+- A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
 
 ## CLIP and Improvements
 - **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP) [[code]](https://github.com/mlfoundations/open_clip) [[code]](https://github.com/Zasder3/train-CLIP) [[website]](https://openai.com/blog/clip/)
