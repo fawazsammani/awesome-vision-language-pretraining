@@ -99,7 +99,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
 
 ## Diffusion-based
-- CLIP-Guided Diffusion [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
+- CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
 - **[LDMs]** High-Resolution Image Synthesis with Latent Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10752.pdf) [[code]](https://github.com/CompVis/latent-diffusion)
 - **[GLIDE]** Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10741.pdf) [[code]](https://github.com/openai/glide-text2im)
 - **[DiffusionCLIP]** Text-Guided Diffusion Models for Robust Image Manipulation [[pdf]])(https://arxiv.org/pdf/2110.02711.pdf) [[code]](https://github.com/gwang-kim/DiffusionCLIP)
