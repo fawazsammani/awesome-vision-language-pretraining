@@ -65,6 +65,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Flamingo]** A Visual Language Model for Few-Shot Learning [[pdf]](https://arxiv.org/pdf/2204.14198.pdf) [[code]](https://github.com/lucidrains/flamingo-pytorch) [[website]](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
 - **[UniCL]** Unified Contrastive Learning in Image-Text-Label Space [[pdf]](https://arxiv.org/pdf/2204.03610.pdf) [[code]](https://github.com/microsoft/UniCL)
 - **[UVLP]** Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment [[pdf]](https://arxiv.org/pdf/2203.00242.pdf)
+- **[OFA]** Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework [[pdf]](https://arxiv.org/pdf/2202.03052v2.pdf) [[code]](https://github.com/OFA-Sys/OFA)
 - **[GPV-1]** An End-to-End Task-Agnostic Vision-Language Architecture [[pdf]](https://arxiv.org/pdf/2104.00743.pdf) [[code]](https://github.com/allenai/gpv-1/) [[website]](https://prior.allenai.org/projects/gpv)
 - **[TCL]** Vision-Language Pre-Training with Triple Contrastive Learning [[pdf]](https://arxiv.org/pdf/2202.10401.pdf) [[code]](https://github.com/uta-smile/TCL)
 - **[L-Verse]** Bidirectional Generation Between Image and Text [[pdf]](https://arxiv.org/pdf/2111.11133.pdf)
