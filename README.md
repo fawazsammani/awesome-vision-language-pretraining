@@ -77,7 +77,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DALL-E-2]** Hierarchical Text-Conditional Image Generation with CLIP Latents [[pdf]](https://arxiv.org/pdf/2204.06125.pdf) [[code]](https://github.com/lucidrains/DALLE2-pytorch) [[website]](https://openai.com/dall-e-2/)
 - **[Make-A-Scene]** Scene-Based Text-to-Image Generation with Human Priors [[pdf]](https://arxiv.org/pdf/2203.13131.pdf)
 - **[PaLM]** Scaling Language Modeling with Pathways [[pdf]](https://arxiv.org/pdf/2204.02311.pdf) [[blog]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) [[code]](https://github.com/lucidrains/PaLM-pytorch)
-- **[VL-BEIT]** Generative Vision-Language Pretraining [[pdf]](https://arxiv.org/pdf/2206.01127.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/vl-beit)
+- **[VL-BEiT]** Generative Vision-Language Pretraining [[pdf]](https://arxiv.org/pdf/2206.01127.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/vl-beit)
 - **[MetaLM]** Language Models are General-Purpose Interfaces [[pdf]](https://arxiv.org/pdf/2206.06336.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/metalm)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
