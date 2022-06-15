@@ -106,7 +106,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[LDMs]** High-Resolution Image Synthesis with Latent Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10752.pdf) [[code]](https://github.com/CompVis/latent-diffusion)
 - **[GLIDE]** Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10741.pdf) [[code]](https://github.com/openai/glide-text2im) [[video]](https://www.youtube.com/watch?v=gwI6g1pBD84&t=1976s&ab_channel=YannicKilcher) [[video]](https://www.youtube.com/watch?v=lvv4N2nf-HU&t=1891s&ab_channel=TheAIEpiphany) [[video]](https://www.youtube.com/watch?v=344w5h24-h8&t=5s&ab_channel=AICoffeeBreakwithLetitia)
 - **[DiffusionCLIP]** Text-Guided Diffusion Models for Robust Image Manipulation [[pdf]](https://arxiv.org/pdf/2110.02711.pdf) [[code]](https://github.com/gwang-kim/DiffusionCLIP)
-- **[Imagen]** Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [[pdf]](https://arxiv.org/pdf/2205.11487.pdf) [[code]](https://github.com/lucidrains/imagen-pytorch) [[website]](https://imagen.research.google/)
+- **[Imagen]** Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [[pdf]](https://arxiv.org/pdf/2205.11487.pdf) [[code]](https://github.com/lucidrains/imagen-pytorch) [[code]](https://github.com/cene555/Imagen-pytorch) [[website]](https://imagen.research.google/)
 
 ## New Large-Scale Datasets
 - **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
