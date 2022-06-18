@@ -131,3 +131,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [image captioning](https://github.com/forence/Awesome-Visual-Captioning)
 - [image captioning](https://github.com/zhjohnchan/awesome-image-captioning)
 - [scene graphs](https://github.com/huoxingmeishi/Awesome-Scene-Graphs)
+
+### Surveys
+- A Survey of Vision-Language Pre-Trained Models [[pdf]](https://arxiv.org/pdf/2202.10936.pdf)
+- VLP: A Survey on Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2202.09061.pdf)
+- Vision Language models: towards multi-modal deep learning [[blog]](https://theaisummer.com/vision-language-models/)
+
