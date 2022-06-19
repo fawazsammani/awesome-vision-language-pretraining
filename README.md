@@ -127,6 +127,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [unilm](https://github.com/microsoft/unilm)
 
 ### Other Awesomes
+- [awesome-Vision-and-Language-Pre-training](https://github.com/phellonchen/awesome-Vision-and-Language-Pre-training)
+- [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 - [vqa](https://github.com/jokieleung/awesome-visual-question-answering)
 - [image captioning](https://github.com/forence/Awesome-Visual-Captioning)
 - [image captioning](https://github.com/zhjohnchan/awesome-image-captioning)
