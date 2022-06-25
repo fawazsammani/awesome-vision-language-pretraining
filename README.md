@@ -103,6 +103,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[E-CLIP]** Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling [[pdf]](https://arxiv.org/pdf/2109.04699.pdf)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
+- **[RegionCLIP]** Region-based Language-Image Pretraining [[pdf]](https://arxiv.org/pdf/2112.09106.pdf) [[code]](https://github.com/microsoft/RegionCLIP)
 
 ## Diffusion-based
 - CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
