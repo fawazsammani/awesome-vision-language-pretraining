@@ -92,6 +92,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
 - Multimodal Few-Shot Learning with Frozen Language Models [[pdf]](https://arxiv.org/pdf/2106.13884.pdf)
+- Multi-modal Alignment using Representation Codebook [[pdf]](https://arxiv.org/pdf/2203.00048.pdf)
 
 ## CLIP and Improvements
 - **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP) [[code]](https://github.com/mlfoundations/open_clip) [[code]](https://github.com/Zasder3/train-CLIP) [[website]](https://openai.com/blog/clip/) [[video]](https://www.youtube.com/watch?v=T9XSU0pKX2E&t=1455s&ab_channel=YannicKilcher)
@@ -103,6 +104,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CLIP Retrieval]** [[blog]](https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c) [[code]](https://github.com/rom1504/clip-retrieval)
 - **[E-CLIP]** Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling [[pdf]](https://arxiv.org/pdf/2109.04699.pdf)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
+- Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
 
 ## Diffusion-based
