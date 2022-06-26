@@ -99,6 +99,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DeCLIP]** Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[pdf]](https://arxiv.org/pdf/2110.05208.pdf) [[code]](https://github.com/Sense-GVT/DeCLIP)
 - **[LiT]** Zero-Shot Transfer with Locked-image text Tuning [[pdf]](https://arxiv.org/pdf/2111.07991.pdf) [[code]](https://github.com/google-research/vision_transformer) [[website]](https://google-research.github.io/vision_transformer/lit/)
 - **[RegionCLIP]** Region-based Language-Image Pretraining [[pdf]](https://arxiv.org/pdf/2112.09106.pdf) [[code]](https://github.com/microsoft/RegionCLIP)
+- **[DenseCLIP]** Language-Guided Dense Prediction with Context-Aware Prompting [[pdf]](https://arxiv.org/pdf/2112.01518.pdf) [[code]](https://github.com/raoyongming/DenseCLIP)
 - **[X-CLIP]** Variants of CLIP [[code]](https://github.com/lucidrains/x-clip)
 - **[CLIP Retrieval]** [[blog]](https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c) [[code]](https://github.com/rom1504/clip-retrieval)
 - **[E-CLIP]** Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling [[pdf]](https://arxiv.org/pdf/2109.04699.pdf)
