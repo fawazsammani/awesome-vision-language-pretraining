@@ -100,6 +100,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
 - Multimodal Few-Shot Learning with Frozen Language Models [[pdf]](https://arxiv.org/pdf/2106.13884.pdf)
+- On Guiding Visual Attention with Language Specification [[pdf]](https://arxiv.org/pdf/2202.08926.pdf)
 - Compressing Visual-linguistic Model via Knowledge Distillation [[pdf]](https://arxiv.org/pdf/2104.02096.pdf)
 - Playing Lottery Tickets with Vision and Language [[pdf]](https://arxiv.org/pdf/2104.11832.pdf)
 
