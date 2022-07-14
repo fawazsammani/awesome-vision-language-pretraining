@@ -33,7 +33,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VL-BERT]** Pre-training of Generic Visual-Linguistic Representations [[pdf]](https://arxiv.org/pdf/1908.08530.pdf) [[code]](https://github.com/jackroos/VL-BERT)
 - **[Unicoder-VL]** A Universal Encoder for Vision and Language by Cross-modal Pre-training [[pdf]](https://arxiv.org/pdf/1908.06066.pdf) 
 - **[UNITER]** UNiversal Image-TExt Representation Learning [[pdf]](https://arxiv.org/pdf/1909.11740.pdf) [[code]](https://github.com/ChenRocks/UNITER)
-- **[ViLT]** Vision-and-Language Transformer Without Convolution or Region Supervision [[pdf]](https://arxiv.org/pdf/2102.03334.pdf) [[code]](https://github.com/dandelin/vilt)
+- **[ViLT]** Vision-and-Language Transformer Without Convolution or Region Supervision [[pdf]](https://arxiv.org/pdf/2102.03334.pdf) [[code]](https://github.com/dandelin/ViLT)
 - **[GLIP ]** Grounded Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2112.03857.pdf) [[code]](https://github.com/microsoft/GLIP)
 - **[GLIPv2]** Unifying Localization and Vision-Language Understanding [[pdf]](https://arxiv.org/pdf/2206.05836.pdf) [[code]](https://github.com/microsoft/GLIP)
 - **[VLMo]** Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts [[pdf]](https://arxiv.org/pdf/2111.02358.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/vlmo)
