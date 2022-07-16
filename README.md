@@ -98,6 +98,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MDETR]** Modulated Detection for End-to-End Multi-Modal Understanding [[pdf]](https://arxiv.org/pdf/2104.12763.pdf) [[code]](https://github.com/ashkamath/mdetr)
 - **[VT-CLIP]** Enhancing Vision-Language Models with Visual-guided Texts [[pdf]](https://arxiv.org/pdf/2112.02399.pdf)
 - **[VLMixer]** Unpaired Vision-Language Pre-training via Cross-Modal CutMix [[pdf]](https://arxiv.org/pdf/2206.08919.pdf) [[code]](https://github.com/ttengwang/VLMixer)
+- **[ClipCap]**  CLIP Prefix for Image Captioning [[pdf]](https://arxiv.org/pdf/2111.09734.pdf) [[code]](https://github.com/rmokady/CLIP_prefix_caption)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
 - Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2106.13488.pdf) 
