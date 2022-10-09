@@ -168,8 +168,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - VLP: A Survey on Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2202.09061.pdf)
 - Vision Language models: towards multi-modal deep learning [[blog]](https://theaisummer.com/vision-language-models/)
 
-### CVPR Tutorials
-- [CVPR22](https://vlp-tutorial.github.io/2022/)
-- [CVPR21](https://vqa2vln-tutorial.github.io/)
-- [CVPR20](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/)
+### Resources
+- [Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/)
+- [CVPR22 Tutorial](https://vlp-tutorial.github.io/2022/)
+- [CVPR21 Tutorial](https://vqa2vln-tutorial.github.io/)
+- [CVPR20 Tutorial](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/)
 
