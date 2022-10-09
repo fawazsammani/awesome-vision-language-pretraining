@@ -83,6 +83,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DALL-E]** Zero-Shot Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2102.12092.pdf) [[code]](https://github.com/openai/DALL-E) [[code]](https://github.com/borisdayma/dalle-mini) [[code]](https://github.com/lucidrains/DALLE-pytorch) [[code]](https://github.com/kuprel/min-dalle) [[code]](https://github.com/robvanvolt/DALLE-models) [[code]](https://github.com/kakaobrain/minDALL-E) [[website]](https://openai.com/blog/dall-e/) [[video]](https://www.youtube.com/watch?v=j4xgkjWlfL4&t=1432s&ab_channel=YannicKilcher) [[video]](https://www.youtube.com/watch?v=jMqLTPcA9CQ&t=1034s&ab_channel=TheAIEpiphany) [[video]](https://www.youtube.com/watch?v=x_8uHX5KngE&ab_channel=TheAIEpiphany) [[blog]](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini--Vmlldzo4NjIxODA) [[blog]](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini-Generate-images-from-any-text-prompt--VmlldzoyMDE4NDAy) [[blog]](https://wandb.ai/dalle-mini/dalle-mini/reports/Building-efficient-image-input-pipelines--VmlldzoyMjMxOTQw) [[blog]](https://ml.berkeley.edu/blog/posts/vq-vae/) [[blog]](https://ml.berkeley.edu/blog/posts/dalle2/) [[blog]](https://towardsdatascience.com/understanding-how-dall-e-mini-works-114048912b3b)
 - **[DALL-E-2]** Hierarchical Text-Conditional Image Generation with CLIP Latents [[pdf]](https://arxiv.org/pdf/2204.06125.pdf) [[code]](https://github.com/lucidrains/DALLE2-pytorch) [[website]](https://openai.com/dall-e-2/) [[blog]](http://adityaramesh.com/posts/dalle2/dalle2.html) [[blog]](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/) [[blog]](https://medium.com/augmented-startups/how-does-dall-e-2-work-e6d492a2667f)
 - **[Make-A-Scene]** Scene-Based Text-to-Image Generation with Human Priors [[pdf]](https://arxiv.org/pdf/2203.13131.pdf)
+- **[Make-A-Video]** Text-to-Video Generation without Text-Video Data [[pdf]](https://arxiv.org/pdf/2209.14792.pdf) [[code]](https://github.com/lucidrains/make-a-video-pytorch) [[blog]](https://makeavideo.studio/) [[blog]](https://ai.facebook.com/blog/generative-ai-text-to-video/)
 - **[LDMs]** High-Resolution Image Synthesis with Latent Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10752.pdf) [[code]](https://github.com/CompVis/latent-diffusion)
 - **[GLIDE]** Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10741.pdf) [[code]](https://github.com/openai/glide-text2im) [[video]](https://www.youtube.com/watch?v=gwI6g1pBD84&t=1976s&ab_channel=YannicKilcher) [[video]](https://www.youtube.com/watch?v=lvv4N2nf-HU&t=1891s&ab_channel=TheAIEpiphany) [[video]](https://www.youtube.com/watch?v=344w5h24-h8&t=5s&ab_channel=AICoffeeBreakwithLetitia)
 - **[DiffusionCLIP]** Text-Guided Diffusion Models for Robust Image Manipulation [[pdf]](https://arxiv.org/pdf/2110.02711.pdf) [[code]](https://github.com/gwang-kim/DiffusionCLIP)
@@ -103,6 +104,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ClipCap]**  CLIP Prefix for Image Captioning [[pdf]](https://arxiv.org/pdf/2111.09734.pdf) [[code]](https://github.com/rmokady/CLIP_prefix_caption)
 - **[VQGAN-CLIP]** Open Domain Image Generation and Editing with Natural Language Guidance [[pdf]](https://arxiv.org/pdf/2204.08583.pdf) [[code]](https://github.com/nerdyrodent/VQGAN-CLIP) [[code]](https://github.com/EleutherAI/vqgan-clip) [[code]](https://github.com/justinjohn0306/VQGAN-CLIP) [[code]](https://www.kaggle.com/code/basu369victor/playing-with-vqgan-clip/notebook) [[colab]](https://colab.research.google.com/github/dribnet/clipit/blob/master/demos/Moar_Settings.ipynb) [[colab]](https://colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN) [[colab]](https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP(Updated).ipynb)
 - CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
+- **[ViCHA]** Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment [[pdf]](https://arxiv.org/pdf/2208.13628.pdf) [[code]](https://github.com/mshukor/ViCHA)
+- **[StoryDALL-E]** Adapting Pretrained Text-to-Image Transformers for Story Continuation [[pdf]](https://arxiv.org/pdf/2209.06192v1.pdf) [[code]](https://github.com/adymaharana/storydalle)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
 - Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2106.13488.pdf) 
@@ -143,6 +146,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Transformers-VQA](https://github.com/YIKUAN8/Transformers-VQA)
 - [MMT-Retrieval](https://github.com/UKPLab/MMT-Retrieval)
 - [MMF](https://github.com/facebookresearch/mmf)
+- [LAVIS](https://github.com/salesforce/lavis)
 
 ### Projects
 - [Florence-VL](https://www.microsoft.com/en-us/research/project/project-florence-vl/)
@@ -160,4 +164,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - A Survey of Vision-Language Pre-Trained Models [[pdf]](https://arxiv.org/pdf/2202.10936.pdf)
 - VLP: A Survey on Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2202.09061.pdf)
 - Vision Language models: towards multi-modal deep learning [[blog]](https://theaisummer.com/vision-language-models/)
+
+### CVPR Tutorials
+- [CVPR22](https://vlp-tutorial.github.io/2022/)
+- [CVPR21](https://vqa2vln-tutorial.github.io/)
+- [CVPR20](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/)
 
