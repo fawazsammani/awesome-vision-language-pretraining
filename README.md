@@ -136,11 +136,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[LiT]** Zero-Shot Transfer with Locked-image text Tuning [[pdf]](https://arxiv.org/pdf/2111.07991.pdf) [[code]](https://github.com/google-research/vision_transformer) [[website]](https://google-research.github.io/vision_transformer/lit/)
 - **[RegionCLIP]** Region-based Language-Image Pretraining [[pdf]](https://arxiv.org/pdf/2112.09106.pdf) [[code]](https://github.com/microsoft/RegionCLIP)
 - **[DenseCLIP]** Language-Guided Dense Prediction with Context-Aware Prompting [[pdf]](https://arxiv.org/pdf/2112.01518.pdf) [[code]](https://github.com/raoyongming/DenseCLIP)
-- **[X-CLIP]** Variants of CLIP [[code]](https://github.com/lucidrains/x-clip)
 - **[CLIP Retrieval]** [[blog]](https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c) [[code]](https://github.com/rom1504/clip-retrieval)
 - **[E-CLIP]** Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling [[pdf]](https://arxiv.org/pdf/2109.04699.pdf)
+- **[X-CLIP]** End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval [[pdf]](https://arxiv.org/pdf/2207.07285.pdf) [[code]](https://github.com/xuguohai/X-CLIP)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
+- [CLIP Varaints](https://github.com/lucidrains/x-clip)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
 
 ## New Large-Scale Datasets
