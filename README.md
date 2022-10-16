@@ -79,7 +79,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ZeroCap]** Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic [[pdf]](https://arxiv.org/pdf/2111.14447.pdf) [[code]](https://github.com/YoadTew/zero-shot-image-to-text)
 - **[FewVLM]** A Good Prompt Is Worth Millions of Parameters: Low-resource Prompt-based Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2110.08484.pdf) [[code]](https://github.com/woojeongjin/FewVLM)
 - **[mPLUG]** Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections [[pdf]](https://arxiv.org/pdf/2205.12005v2.pdf) 
-- **[PaLI]** A Jointly-Scaled Multilingual Language-Image Model [[pdf]](https://arxiv.org/pdf/2209.06794v2.pdf)
+- **[PaLI]** A Jointly-Scaled Multilingual Language-Image Model [[pdf]](https://arxiv.org/pdf/2209.06794v2.pdf) [[blog]](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)
 - **[BEiT-3]** Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2208.10442v2.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/beit) 
 - **[GIT]** A Generative Image-to-text Transformer for Vision and Language [[pdf]](https://arxiv.org/pdf/2205.14100.pdf) [[code]](https://github.com/microsoft/GenerativeImage2Text)
 - **[MaskVLM]** Masked Vision and Language Modeling for Multi-modal Representation Learning [[pdf]](https://arxiv.org/pdf/2208.02131.pdf)
