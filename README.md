@@ -129,7 +129,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DiffusionCLIP]** Text-Guided Diffusion Models for Robust Image Manipulation [[pdf]](https://arxiv.org/pdf/2110.02711.pdf) [[code]](https://github.com/gwang-kim/DiffusionCLIP)
 - **[VQ-Diffusion]** Vector Quantized Diffusion Model for Text-to-Image Synthesis [[pdf]](https://arxiv.org/pdf/2111.14822.pdf) [[code]](https://github.com/cientgu/VQ-Diffusion)
 - **[clip2latent]** Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP [[pdf]](https://arxiv.org/pdf/2210.02347.pdf) [[code]](https://github.com/justinpinkney/clip2latent)
-- **[DreamBooth]** Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[pdf]](https://arxiv.org/pdf/2208.12242v1.pdf) [[website]](https://dreambooth.github.io/)
+- **[DreamBooth]** Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[pdf]](https://arxiv.org/pdf/2208.12242v1.pdf) [[website]](https://dreambooth.github.io/) [[code]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) [[code]](https://github.com/cantrell/Dreambooth-Stable-Diffusion-Tweaked)
 - **[LDMs]** High-Resolution Image Synthesis with Latent Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10752.pdf) [[code]](https://github.com/CompVis/latent-diffusion)
 - Prompt-to-Prompt Image Editing with Cross Attention Control [[pdf]](https://arxiv.org/pdf/2208.01626.pdf) [[code]](https://github.com/google/prompt-to-prompt)
 - CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
