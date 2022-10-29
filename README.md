@@ -104,6 +104,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[GRIT]** Faster and Better Image captioning Transformer Using Dual Visual Features [[pdf]](https://arxiv.org/pdf/2207.09666v1.pdf)
 - **[VLMAE]** Vision-Language Masked Autoencoder [[pdf]](https://arxiv.org/pdf/2208.09374.pdf)
 - **[MaskVLM]** Masked Vision and Language Modeling for Multi-modal Representation Learning [[pdf]](https://arxiv.org/pdf/2208.02131.pdf)
+- **[MLIM]** Vision-and-Language Model Pre-training with Masked Language and Image Modeling [[pdf]](https://arxiv.org/pdf/2109.12178.pdf)
 - **[MultiMAE]** Multi-modal Multi-task Masked Autoencoders [[pdf]](https://arxiv.org/pdf/2204.01678.pdf) [[code]](https://github.com/EPFL-VILAB/MultiMAE) [[website]](https://multimae.epfl.ch/) [[colab]](https://colab.research.google.com/github/EPFL-VILAB/MultiMAE/blob/main/MultiMAE_Demo.ipynb) [[demo]](https://huggingface.co/spaces/EPFL-VILAB/MultiMAE)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
