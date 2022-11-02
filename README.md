@@ -132,10 +132,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[clip2latent]** Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP [[pdf]](https://arxiv.org/pdf/2210.02347.pdf) [[code]](https://github.com/justinpinkney/clip2latent)
 - **[DreamBooth]** Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[pdf]](https://arxiv.org/pdf/2208.12242v1.pdf) [[website]](https://dreambooth.github.io/) [[code]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) [[code]](https://github.com/cantrell/Dreambooth-Stable-Diffusion-Tweaked)
 - **[LDMs]** High-Resolution Image Synthesis with Latent Diffusion Models [[pdf]](https://arxiv.org/pdf/2112.10752.pdf) [[code]](https://github.com/CompVis/latent-diffusion)
+- **[MagicMix]** Semantic Mixing with Diffusion Models [[pdf]](https://arxiv.org/pdf/2210.16056v1.pdf) [[website]](https://magicmix.github.io/)
 - Prompt-to-Prompt Image Editing with Cross Attention Control [[pdf]](https://arxiv.org/pdf/2208.01626.pdf) [[code]](https://github.com/google/prompt-to-prompt)
 - CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
 
-## CLIP and Improvements
+## CLIP-related
 - **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP) [[code]](https://github.com/mlfoundations/open_clip) [[code]](https://github.com/Zasder3/train-CLIP) [[website]](https://openai.com/blog/clip/) [[video]](https://www.youtube.com/watch?v=T9XSU0pKX2E&t=1455s&ab_channel=YannicKilcher) [[video code]](https://www.youtube.com/watch?v=jwZQD0Cqz4o&t=4610s&ab_channel=TheAIEpiphany)
 - **[ALIGN]** Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[pdf]](https://arxiv.org/pdf/2102.05918.pdf)
 - **[DeCLIP]** Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[pdf]](https://arxiv.org/pdf/2110.05208.pdf) [[code]](https://github.com/Sense-GVT/DeCLIP)
@@ -145,6 +146,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CLIP Retrieval]** [[blog]](https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c) [[code]](https://github.com/rom1504/clip-retrieval)
 - **[E-CLIP]** Efficient Cross-Modal Pre-training by Ensemble Confident Learning and Language Modeling [[pdf]](https://arxiv.org/pdf/2109.04699.pdf)
 - **[X-CLIP]** End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval [[pdf]](https://arxiv.org/pdf/2207.07285.pdf) [[code]](https://github.com/xuguohai/X-CLIP)
+- **[MaskCLIP]** Masked Self-Distillation Advances Contrastive Language-Image Pretraining [[pdf]](https://arxiv.org/pdf/2208.12262.pdf)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - [CLIP Varaints](https://github.com/lucidrains/x-clip)
