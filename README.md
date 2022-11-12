@@ -119,6 +119,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - On Guiding Visual Attention with Language Specification [[pdf]](https://arxiv.org/pdf/2202.08926.pdf)
 - Compressing Visual-linguistic Model via Knowledge Distillation [[pdf]](https://arxiv.org/pdf/2104.02096.pdf)
 - Playing Lottery Tickets with Vision and Language [[pdf]](https://arxiv.org/pdf/2104.11832.pdf)
+- Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf)
 
 ## Diffusion-based Vision-Language
 
