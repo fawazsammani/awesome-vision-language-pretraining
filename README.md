@@ -71,7 +71,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[GPV-2]** Webly Supervised Concept Expansion for General Purpose Vision Models [[pdf]](https://arxiv.org/pdf/2202.02317.pdf) [[code]](https://github.com/allenai/gpv2/) [[website]](https://prior.allenai.org/projects/gpv2)
 - **[TCL]** Vision-Language Pre-Training with Triple Contrastive Learning [[pdf]](https://arxiv.org/pdf/2202.10401.pdf) [[code]](https://github.com/uta-smile/TCL)
 - **[L-Verse]** Bidirectional Generation Between Image and Text [[pdf]](https://arxiv.org/pdf/2111.11133.pdf)
-- **[FLAVA]** A Foundational Language And Vision Alignment Model [[pdf]](https://arxiv.org/pdf/2112.04482.pdf) [[code]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava) [[website]](https://flava-model.github.io/)
+- **[FLAVA]** A Foundational Language And Vision Alignment Model [[pdf]](https://arxiv.org/pdf/2112.04482.pdf) [[code]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava) [[website]](https://flava-model.github.io/) [[tutorial]](https://pytorch.org/tutorials/beginner/flava_finetuning_tutorial.html)
 - **[COTS]** Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval [[pdf]](https://arxiv.org/pdf/2204.07441.pdf)
 - **[VL-ADAPTER]** Parameter-Efficient Transfer Learning for Vision-and-Language Tasks [[pdf]](https://arxiv.org/pdf/2112.06825.pdf) [[code]](https://github.com/ylsung/VL_adapter)
 - **[Unified-IO]** A Unified Model for Vision, Language, and Multi-Modal Tasks [[pdf]](https://arxiv.org/pdf/2206.08916.pdf) [[website]](https://unified-io.allenai.org/)
@@ -161,6 +161,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Winoground]** Probing Vision and Language Models for Visio-Linguistic Compositionality [[pdf]](https://arxiv.org/pdf/2204.03162.pdf) [[dataset]](https://huggingface.co/datasets/facebook/winoground)
 
 ### Libraries
+- [TorchMultimodal](https://github.com/facebookresearch/multimodal)
 - [diffusers](https://github.com/huggingface/diffusers)
 - [X-modaler](https://github.com/YehLi/xmodaler)
 - [Transformers-VQA](https://github.com/YIKUAN8/Transformers-VQA)
