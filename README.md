@@ -161,7 +161,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Winoground]** Probing Vision and Language Models for Visio-Linguistic Compositionality [[pdf]](https://arxiv.org/pdf/2204.03162.pdf) [[dataset]](https://huggingface.co/datasets/facebook/winoground)
 
 ### Libraries
-- [TorchMultimodal](https://github.com/facebookresearch/multimodal)
+- TorchMultimodal [[github]](https://github.com/facebookresearch/multimodal) [[blog]](https://pytorch.org/blog/introducing-torchmultimodal/)
 - [diffusers](https://github.com/huggingface/diffusers)
 - [X-modaler](https://github.com/YehLi/xmodaler)
 - [Transformers-VQA](https://github.com/YIKUAN8/Transformers-VQA)
