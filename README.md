@@ -110,7 +110,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Cross-Modal Textual and Visual Context for Image Captioning [[pdf]](https://arxiv.org/pdf/2205.04363.pdf)
 - Multi-modal Alignment using Representation Codebook [[pdf]](https://arxiv.org/pdf/2203.00048.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
-- CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
 - Multimodal Few-Shot Learning with Frozen Language Models [[pdf]](https://arxiv.org/pdf/2106.13884.pdf)
 - On Guiding Visual Attention with Language Specification [[pdf]](https://arxiv.org/pdf/2202.08926.pdf)
 - Compressing Visual-linguistic Model via Knowledge Distillation [[pdf]](https://arxiv.org/pdf/2104.02096.pdf)
@@ -150,6 +149,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VQGAN-CLIP]** Open Domain Image Generation and Editing with Natural Language Guidance [[pdf]](https://arxiv.org/pdf/2204.08583.pdf) [[code]](https://github.com/nerdyrodent/VQGAN-CLIP) [[code]](https://github.com/EleutherAI/vqgan-clip) [[code]](https://github.com/justinjohn0306/VQGAN-CLIP) [[code]](https://www.kaggle.com/code/basu369victor/playing-with-vqgan-clip/notebook) [[colab]](https://colab.research.google.com/github/dribnet/clipit/blob/master/demos/Moar_Settings.ipynb) [[colab]](https://colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN) [[colab]](https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP(Updated).ipynb)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
+- CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
 - [CLIP Varaints](https://github.com/lucidrains/x-clip)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
 
