@@ -147,9 +147,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CLIPSeg]** Image Segmentation Using Text and Image Prompts [[pdf]](https://arxiv.org/pdf/2112.10003.pdf) [[code]](https://github.com/timojl/clipseg) [[demo]](https://huggingface.co/spaces/nielsr/CLIPSeg)
 - **[ClipCap]**  CLIP Prefix for Image Captioning [[pdf]](https://arxiv.org/pdf/2111.09734.pdf) [[code]](https://github.com/rmokady/CLIP_prefix_caption) [[code]](https://github.com/TheoCoombes/ClipCap)
 - **[VQGAN-CLIP]** Open Domain Image Generation and Editing with Natural Language Guidance [[pdf]](https://arxiv.org/pdf/2204.08583.pdf) [[code]](https://github.com/nerdyrodent/VQGAN-CLIP) [[code]](https://github.com/EleutherAI/vqgan-clip) [[code]](https://github.com/justinjohn0306/VQGAN-CLIP) [[code]](https://www.kaggle.com/code/basu369victor/playing-with-vqgan-clip/notebook) [[colab]](https://colab.research.google.com/github/dribnet/clipit/blob/master/demos/Moar_Settings.ipynb) [[colab]](https://colab.research.google.com/drive/1L8oL-vLJXVcRzCFbPwOoMkPKJ8-aYdPN) [[colab]](https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP(Updated).ipynb)
+- **[Paella]** Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces [[pdf]](https://arxiv.org/pdf/2211.07292.pdf) [[code]](https://github.com/dome272/Paella) [[video]](https://www.youtube.com/watch?v=6zeLSANd41k&ab_channel=AICoffeeBreakwithLetitia)
+- **[CLIPPO]** Image-and-Language Understanding from Pixels Only [[pdf]](https://arxiv.org/pdf/2212.08045.pdf)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
+- CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet [[pdf]](https://arxiv.org/pdf/2212.06138.pdf) [[code]](https://github.com/LightDXY/FT-CLIP)
 - [CLIP Varaints](https://github.com/lucidrains/x-clip)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
 
