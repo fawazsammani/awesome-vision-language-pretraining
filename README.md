@@ -62,7 +62,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CoCoOp]** Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
 - **[Uni-Perceiver]** Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks [[pdf]](https://arxiv.org/pdf/2112.01522.pdf)
 - **[CoCa]** Contrastive Captioners are Image-Text Foundation Models [[pdf]](https://arxiv.org/pdf/2205.01917.pdf) [[code]](https://github.com/lucidrains/CoCa-pytorch)
-- **[Flamingo]** A Visual Language Model for Few-Shot Learning [[pdf]](https://arxiv.org/pdf/2204.14198.pdf) [[code]](https://github.com/lucidrains/flamingo-pytorch) [[website]](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
+- **[Flamingo]** A Visual Language Model for Few-Shot Learning [[pdf]](https://arxiv.org/pdf/2204.14198.pdf) [[code]](https://github.com/lucidrains/flamingo-pytorch) [[website]](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model) [[blog]](https://wandb.ai/gladiator/Flamingo%20VLM/reports/DeepMind-Flamingo-A-Visual-Language-Model-for-Few-Shot-Learning--VmlldzoyOTgzMDI2)
 - **[UniCL]** Unified Contrastive Learning in Image-Text-Label Space [[pdf]](https://arxiv.org/pdf/2204.03610.pdf) [[code]](https://github.com/microsoft/UniCL)
 - **[UVLP]** Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment [[pdf]](https://arxiv.org/pdf/2203.00242.pdf)
 - **[OFA]** Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework [[pdf]](https://arxiv.org/pdf/2202.03052v2.pdf) [[pdf]](https://arxiv.org/pdf/2208.02532v1.pdf) [[code]](https://github.com/OFA-Sys/OFA)
@@ -116,6 +116,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Compressing Visual-linguistic Model via Knowledge Distillation [[pdf]](https://arxiv.org/pdf/2104.02096.pdf)
 - Playing Lottery Tickets with Vision and Language [[pdf]](https://arxiv.org/pdf/2104.11832.pdf)
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf)
+- Do DALL-E and Flamingo Understand Each Other? [[pdf]](https://arxiv.org/pdf/2212.12249.pdf)
 
 ## Diffusion-based Vision-Language
 
