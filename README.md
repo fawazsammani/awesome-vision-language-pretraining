@@ -167,12 +167,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ### Libraries
 - LAVIS [[github]](https://github.com/salesforce/LAVIS) [[docs]](https://opensource.salesforce.com/LAVIS//latest/index.html#)
+- Diffusers [[github]](https://github.com/huggingface/diffusers) [[docs]](https://huggingface.co/docs/diffusers/index)
+- X-modaler [[github]](https://github.com/YehLi/xmodaler) [[docs]](https://xmodaler.readthedocs.io/en/latest/index.html)
+- MMF [[github]](https://github.com/facebookresearch/mmf) [[docs]](https://mmf.sh/docs/)
 - TorchMultimodal [[github]](https://github.com/facebookresearch/multimodal) [[blog]](https://pytorch.org/blog/introducing-torchmultimodal/) [[blog]](https://pytorch.org/blog/scaling-multimodal-foundation-models-in-torchmultimodal-with-pytorch-distributed/)
-- [diffusers](https://github.com/huggingface/diffusers)
-- [X-modaler](https://github.com/YehLi/xmodaler)
 - [Transformers-VQA](https://github.com/YIKUAN8/Transformers-VQA)
 - [MMT-Retrieval](https://github.com/UKPLab/MMT-Retrieval)
-- [MMF](https://github.com/facebookresearch/mmf)
 
 ### Projects
 - [Florence-VL](https://www.microsoft.com/en-us/research/project/project-florence-vl/)
