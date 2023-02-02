@@ -166,13 +166,13 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Winoground]** Probing Vision and Language Models for Visio-Linguistic Compositionality [[pdf]](https://arxiv.org/pdf/2204.03162.pdf) [[dataset]](https://huggingface.co/datasets/facebook/winoground)
 
 ### Libraries
+- LAVIS [[github]](https://github.com/salesforce/LAVIS) [[docs]](https://opensource.salesforce.com/LAVIS//latest/index.html#)
 - TorchMultimodal [[github]](https://github.com/facebookresearch/multimodal) [[blog]](https://pytorch.org/blog/introducing-torchmultimodal/) [[blog]](https://pytorch.org/blog/scaling-multimodal-foundation-models-in-torchmultimodal-with-pytorch-distributed/)
 - [diffusers](https://github.com/huggingface/diffusers)
 - [X-modaler](https://github.com/YehLi/xmodaler)
 - [Transformers-VQA](https://github.com/YIKUAN8/Transformers-VQA)
 - [MMT-Retrieval](https://github.com/UKPLab/MMT-Retrieval)
 - [MMF](https://github.com/facebookresearch/mmf)
-- [LAVIS](https://github.com/salesforce/LAVIS)
 
 ### Projects
 - [Florence-VL](https://www.microsoft.com/en-us/research/project/project-florence-vl/)
