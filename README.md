@@ -19,6 +19,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[UNIMO]** Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning [[pdf]](https://arxiv.org/pdf/2012.15409.pdf) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)
 - **[UNIMO-2]** End-to-End Unified Vision-Language Grounded Learning [[pdf]](https://arxiv.org/pdf/2203.09067.pdf) [[code]](https://unimo-ptm.github.io/)
 - **[BLIP]** Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation [[pdf]](https://arxiv.org/pdf/2201.12086.pdf) [[code]](https://github.com/salesforce/BLIP) [[video]](https://www.youtube.com/watch?v=X2k7n4FuI7c&ab_channel=YannicKilcher)
+- **[BLIP-2]** Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [[pdf]](https://arxiv.org/pdf/2301.12597.pdf) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
 - **[Uni-EDEN]** Universal Encoder-Decoder Network by Multi-Granular Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2201.04026.pdf)
 - **[VisualGPT]** Data-efficient Adaptation of Pretrained Language Models for Image Captioning [[pdf]](https://arxiv.org/pdf/2102.10407.pdf) [[code]](https://github.com/Vision-CAIR/VisualGPT)
 - **[MiniVLM]** A Smaller and Faster Vision-Language Model [[pdf]](https://arxiv.org/pdf/2012.06946.pdf)
@@ -171,7 +172,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Transformers-VQA](https://github.com/YIKUAN8/Transformers-VQA)
 - [MMT-Retrieval](https://github.com/UKPLab/MMT-Retrieval)
 - [MMF](https://github.com/facebookresearch/mmf)
-- [LAVIS](https://github.com/salesforce/lavis)
+- [LAVIS](https://github.com/salesforce/LAVIS)
 
 ### Projects
 - [Florence-VL](https://www.microsoft.com/en-us/research/project/project-florence-vl/)
