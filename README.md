@@ -104,6 +104,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MLIM]** Vision-and-Language Model Pre-training with Masked Language and Image Modeling [[pdf]](https://arxiv.org/pdf/2109.12178.pdf)
 - **[MultiMAE]** Multi-modal Multi-task Masked Autoencoders [[pdf]](https://arxiv.org/pdf/2204.01678.pdf) [[code]](https://github.com/EPFL-VILAB/MultiMAE) [[website]](https://multimae.epfl.ch/) [[colab]](https://colab.research.google.com/github/EPFL-VILAB/MultiMAE/blob/main/MultiMAE_Demo.ipynb) [[demo]](https://huggingface.co/spaces/EPFL-VILAB/MultiMAE)
 - **[OWL-ViT]** Simple Open-Vocabulary Object Detection with Vision Transformers [[pdf]](https://arxiv.org/pdf/2205.06230.pdf) [[code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) [[colab]](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/zeroshot_object_detection_with_owlvit.ipynb) [[demo]](https://huggingface.co/spaces/adirik/OWL-ViT) [[demo]](https://huggingface.co/spaces/adirik/image-guided-owlvit)
+- Perceptual Grouping in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.09996.pdf)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
 - Probing Inter-modality: Visual Parsing with Self-Attention for Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2106.13488.pdf) 
