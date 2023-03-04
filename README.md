@@ -7,6 +7,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[]** Paper Name [[pdf]]() [[code]]()
 ```
 
+Note: most pretrained models can be found on [hf models](https://huggingface.co/models)
+
 ## Papers
 
 - **[ViLBERT]** Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks [[pdf]](https://arxiv.org/pdf/1908.02265.pdf) [[code]](https://github.com/facebookresearch/vilbert-multi-task) [[code]](https://github.com/jiasenlu/vilbert_beta)
