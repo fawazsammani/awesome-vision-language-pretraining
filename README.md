@@ -142,6 +142,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ALIGN]** Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[pdf]](https://arxiv.org/pdf/2102.05918.pdf)
 - **[DeCLIP]** Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[pdf]](https://arxiv.org/pdf/2110.05208.pdf) [[code]](https://github.com/Sense-GVT/DeCLIP)
 - **[LiT]** Zero-Shot Transfer with Locked-image text Tuning [[pdf]](https://arxiv.org/pdf/2111.07991.pdf) [[code]](https://github.com/google-research/vision_transformer) [[website]](https://google-research.github.io/vision_transformer/lit/)
+- **[FLIP]** Scaling Language-Image Pre-training via Masking [[pdf]](https://arxiv.org/pdf/2212.00794.pdf)
 - **[VT-CLIP]** Enhancing Vision-Language Models with Visual-guided Texts [[pdf]](https://arxiv.org/pdf/2112.02399.pdf)
 - **[CLIP-ViL]** How Much Can CLIP Benefit Vision-and-Language Tasks? [[pdf]](https://arxiv.org/pdf/2107.06383.pdf) [[code]](https://github.com/clip-vil/CLIP-ViL)
 - **[RegionCLIP]** Region-based Language-Image Pretraining [[pdf]](https://arxiv.org/pdf/2112.09106.pdf) [[code]](https://github.com/microsoft/RegionCLIP)
