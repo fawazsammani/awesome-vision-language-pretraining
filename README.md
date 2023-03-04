@@ -164,7 +164,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## New Large-Scale Datasets
 - **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
-- **[LAION]** [[website]](https://laion.ai/) [[hf datasets]](https://huggingface.co/laion) [[paper]](https://openreview.net/pdf?id=M3Y74vmsMcY) [[paper]](https://arxiv.org/pdf/2111.02114.pdf) [[img2dataset]](https://github.com/rom1504/img2dataset)
+- **[LAION]** [[website]](https://laion.ai/) [[hf website]](https://huggingface.co/laion) [[paper]](https://openreview.net/pdf?id=M3Y74vmsMcY) [[paper]](https://arxiv.org/pdf/2111.02114.pdf) [[img2dataset]](https://github.com/rom1504/img2dataset)
 - **[Conceptual 12M]** Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts [[pdf]](https://arxiv.org/pdf/2102.08981.pdf) [[code]](https://github.com/google-research-datasets/conceptual-12m)
 - **[Winoground]** Probing Vision and Language Models for Visio-Linguistic Compositionality [[pdf]](https://arxiv.org/pdf/2204.03162.pdf) [[dataset]](https://huggingface.co/datasets/facebook/winoground)
 
