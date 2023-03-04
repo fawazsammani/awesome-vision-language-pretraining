@@ -156,6 +156,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Paella]** Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces [[pdf]](https://arxiv.org/pdf/2211.07292.pdf) [[code]](https://github.com/dome272/Paella) [[video]](https://www.youtube.com/watch?v=6zeLSANd41k&ab_channel=AICoffeeBreakwithLetitia)
 - **[CLIPPO]** Image-and-Language Understanding from Pixels Only [[pdf]](https://arxiv.org/pdf/2212.08045.pdf)
 - **[SVLC]** Teaching Structured Vision & Language Concepts to Vision & Language Models [[pdf]](https://arxiv.org/pdf/2211.11733.pdf)
+- **[CuPL]** Generating customized prompts for zero-shot image classification [[pdf]](https://arxiv.org/pdf/2209.03320.pdf) [[code]](https://github.com/sarahpratt/CuPL)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
