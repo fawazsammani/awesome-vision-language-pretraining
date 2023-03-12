@@ -110,6 +110,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[KOSMOS-1]** Language Is Not All You Need: Aligning Perception with Language Models [[pdf]](https://arxiv.org/pdf/2302.14045.pdf) [[code]](https://github.com/microsoft/unilm)
 - **[Visual ChatGPT]** Talking, Drawing and Editing with Visual Foundation Models [[pdf]](https://arxiv.org/pdf/2303.04671.pdf) [[code]](https://github.com/microsoft/visual-chatgpt) 
 - **[OWL-ViT]** Simple Open-Vocabulary Object Detection with Vision Transformers [[pdf]](https://arxiv.org/pdf/2205.06230.pdf) [[code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) [[colab]](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/zeroshot_object_detection_with_owlvit.ipynb) [[demo]](https://huggingface.co/spaces/adirik/OWL-ViT) [[demo]](https://huggingface.co/spaces/adirik/image-guided-owlvit)
+- **[PaLM-E]** An Embodied Multimodal Language Model [[pdf]](https://arxiv.org/pdf/2303.03378.pdf) [[website]](https://palm-e.github.io/) [[blog]](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
 - Perceptual Grouping in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.09996.pdf)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
