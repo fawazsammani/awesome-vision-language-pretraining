@@ -112,7 +112,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[Prismer]** A Vision-Language Model with Multi-Modal Experts [[pdf]](https://arxiv.org/pdf/2303.02506.pdf) [[code]](https://github.com/NVlabs/prismer) [[website]](https://shikun.io/projects/prismer) [[demo]](https://huggingface.co/spaces/lorenmt/prismer)
 - **[OWL-ViT]** Simple Open-Vocabulary Object Detection with Vision Transformers [[pdf]](https://arxiv.org/pdf/2205.06230.pdf) [[code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) [[colab]](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/zeroshot_object_detection_with_owlvit.ipynb) [[demo]](https://huggingface.co/spaces/adirik/OWL-ViT) [[demo]](https://huggingface.co/spaces/adirik/image-guided-owlvit)
 - **[PaLM-E]** An Embodied Multimodal Language Model [[pdf]](https://arxiv.org/pdf/2303.03378.pdf) [[website]](https://palm-e.github.io/) [[blog]](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
-- **[GigaGAN]** Scaling up GANs for Text-to-Image Synthesis [[pdf]](https://arxiv.org/pdf/2303.05511.pdf) [[website]](https://mingukkang.github.io/GigaGAN/)
+- **[GigaGAN]** Scaling up GANs for Text-to-Image Synthesis [[pdf]](https://arxiv.org/pdf/2303.05511.pdf) [[code]](https://github.com/lucidrains/gigagan-pytorch) [[website]](https://mingukkang.github.io/GigaGAN/)
 - Perceptual Grouping in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.09996.pdf)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
