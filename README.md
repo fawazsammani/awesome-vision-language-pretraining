@@ -150,6 +150,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[LiT]** Zero-Shot Transfer with Locked-image text Tuning [[pdf]](https://arxiv.org/pdf/2111.07991.pdf) [[code]](https://github.com/google-research/vision_transformer) [[website]](https://google-research.github.io/vision_transformer/lit/)
 - **[FLIP]** Scaling Language-Image Pre-training via Masking [[pdf]](https://arxiv.org/pdf/2212.00794.pdf)
 - **[FILIP]** Fine-grained Interactive Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2111.07783.pdf)
+- **[WiSE-FT]** Robust fine-tuning of zero-shot models [[pdf]](https://arxiv.org/pdf/2109.01903.pdf) [[code]](https://github.com/mlfoundations/wise-ft)
 - **[VT-CLIP]** Enhancing Vision-Language Models with Visual-guided Texts [[pdf]](https://arxiv.org/pdf/2112.02399.pdf)
 - **[CLIP-ViL]** How Much Can CLIP Benefit Vision-and-Language Tasks? [[pdf]](https://arxiv.org/pdf/2107.06383.pdf) [[code]](https://github.com/clip-vil/CLIP-ViL)
 - **[RegionCLIP]** Region-based Language-Image Pretraining [[pdf]](https://arxiv.org/pdf/2112.09106.pdf) [[code]](https://github.com/microsoft/RegionCLIP)
