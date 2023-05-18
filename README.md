@@ -12,6 +12,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 ## Papers
 
 - **[ViLBERT]** Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks [[pdf]](https://arxiv.org/pdf/1908.02265.pdf) [[code]](https://github.com/facebookresearch/vilbert-multi-task) [[code]](https://github.com/jiasenlu/vilbert_beta)
+- **[Unified-VLP]** Unified Vision-Language Pre-Training for Image Captioning and VQA [[pdf]](https://arxiv.org/pdf/1909.11059.pdf) [[code]](https://github.com/LuoweiZhou/VLP)
 - **[ImageBERT]** Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data [[pdf]](https://arxiv.org/pdf/2001.07966.pdf)
 - **[SimVLM]** Simple Visual Language Model Pretraining with Weak Supervision [[pdf]](https://arxiv.org/pdf/2108.10904.pdf)
 - **[ALBEF]** Align before Fuse: Vision and Language Representation Learning with Momentum Distillation [[pdf]](https://arxiv.org/pdf/2107.07651.pdf) [[code]](https://github.com/salesforce/ALBEF)
@@ -30,7 +31,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[XGPT]** Cross-modal Generative Pre-Training for Image Captioning [[pdf]](https://arxiv.org/pdf/2003.01473.pdf)
 - **[ViTCAP]** Injecting Semantic Concepts into End-to-End Image Captioning [[pdf]](https://arxiv.org/pdf/2112.05230.pdf) 
 - **[LEMON]** Scaling Up Vision-Language Pre-training for Image Captioning [[pdf]](https://arxiv.org/pdf/2111.12233.pdf) 
-- **[Unified-VLP]** Unified Vision-Language Pre-Training for Image Captioning and VQA [[pdf]](https://arxiv.org/pdf/1909.11059.pdf) [[code]](https://github.com/LuoweiZhou/VLP)
+- **[IC3]** Image Captioning by Committee Consensus [[pdf]](https://arxiv.org/pdf/2302.01328.pdf) [[code]](https://github.com/DavidMChan/caption-by-committee)
 - **[TAP]** Text-Aware Pre-training for Text-VQA and Text-Caption [[pdf]](https://arxiv.org/pdf/2012.04638.pdf) 
 - **[PICa]** An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA [[pdf]](https://arxiv.org/pdf/2109.05014.pdf) 
 - **[CVLP]** Contrastive Visual-Linguistic Pretraining [[pdf]](https://arxiv.org/pdf/2007.13135.pdf) [[code]](https://github.com/ArcherYunDong/CVLP)
@@ -112,7 +113,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[Prismer]** A Vision-Language Model with Multi-Modal Experts [[pdf]](https://arxiv.org/pdf/2303.02506.pdf) [[code]](https://github.com/NVlabs/prismer) [[website]](https://shikun.io/projects/prismer) [[demo]](https://huggingface.co/spaces/lorenmt/prismer)
 - **[OWL-ViT]** Simple Open-Vocabulary Object Detection with Vision Transformers [[pdf]](https://arxiv.org/pdf/2205.06230.pdf) [[code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit) [[colab]](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/zeroshot_object_detection_with_owlvit.ipynb) [[demo]](https://huggingface.co/spaces/adirik/OWL-ViT) [[demo]](https://huggingface.co/spaces/adirik/image-guided-owlvit)
 - **[PaLM-E]** An Embodied Multimodal Language Model [[pdf]](https://arxiv.org/pdf/2303.03378.pdf) [[website]](https://palm-e.github.io/) [[blog]](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
-- **[IC3]** Image Captioning by Committee Consensus [[pdf]](https://arxiv.org/pdf/2302.01328.pdf) [[code]](https://github.com/DavidMChan/caption-by-committee)
 - **[X-Decoder]** Generalized Decoding for Pixel, Image, and Language [[pdf]](https://arxiv.org/pdf/2212.11270.pdf) [[code]](https://github.com/microsoft/X-Decoder) [[website]](https://x-decoder-vl.github.io/) [[demo]](https://huggingface.co/spaces/xdecoder/Demo)
 - **[GigaGAN]** Scaling up GANs for Text-to-Image Synthesis [[pdf]](https://arxiv.org/pdf/2303.05511.pdf) [[code]](https://github.com/lucidrains/gigagan-pytorch) [[website]](https://mingukkang.github.io/GigaGAN/)
 - Perceptual Grouping in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.09996.pdf)
