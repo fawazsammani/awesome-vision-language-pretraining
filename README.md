@@ -173,6 +173,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[SVLC]** Teaching Structured Vision & Language Concepts to Vision & Language Models [[pdf]](https://arxiv.org/pdf/2211.11733.pdf)
 - **[CuPL]** Generating customized prompts for zero-shot image classification [[pdf]](https://arxiv.org/pdf/2209.03320.pdf) [[code]](https://github.com/sarahpratt/CuPL)
 - **[Internet Explorer]** Targeted Representation Learning on the Open Web [[pdf]](https://arxiv.org/pdf/2302.14051.pdf) [[code]](https://github.com/internet-explorer-ssl/internet-explorer) [[website]](https://internet-explorer-ssl.github.io/)
+- The Unreasonable Effectiveness of CLIP Features for Image Captioning: An Experimental Analysis [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/MULA/papers/Barraco_The_Unreasonable_Effectiveness_of_CLIP_Features_for_Image_Captioning_An_CVPRW_2022_paper.pdf)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
