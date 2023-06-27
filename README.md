@@ -174,13 +174,19 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[CuPL]** Generating customized prompts for zero-shot image classification [[pdf]](https://arxiv.org/pdf/2209.03320.pdf) [[code]](https://github.com/sarahpratt/CuPL)
 - **[Internet Explorer]** Targeted Representation Learning on the Open Web [[pdf]](https://arxiv.org/pdf/2302.14051.pdf) [[code]](https://github.com/internet-explorer-ssl/internet-explorer) [[website]](https://internet-explorer-ssl.github.io/)
 - The Unreasonable Effectiveness of CLIP Features for Image Captioning: An Experimental Analysis [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/MULA/papers/Barraco_The_Unreasonable_Effectiveness_of_CLIP_Features_for_Image_Captioning_An_CVPRW_2022_paper.pdf)
-- Fine-grained Image Captioning with CLIP Reward [[pdf]](https://arxiv.org/pdf/2205.13115.pdf) [[code]](https://github.com/j-min/CLIP-Caption-Reward)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
 - CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet [[pdf]](https://arxiv.org/pdf/2212.06138.pdf) [[code]](https://github.com/LightDXY/FT-CLIP)
 - [CLIP Varaints](https://github.com/lucidrains/x-clip)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
+
+## Policy Gradients with Image Captioning
+- Self-critical Sequence Training for Image Captioning [[pdf]](https://arxiv.org/pdf/1612.00563.pdf) [[code]](https://github.com/ruotianluo/self-critical.pytorch)
+- A Better Variant of Self-Critical Sequence Training [[pdf]](https://arxiv.org/pdf/2003.09971.pdf) [[code]](https://github.com/ruotianluo/self-critical.pytorch)
+- Fine-grained Image Captioning with CLIP Reward [[pdf]](https://arxiv.org/pdf/2205.13115.pdf) [[code]](https://github.com/j-min/CLIP-Caption-Reward)
+- Distinctive Image Captioning via CLIP Guided Group Optimization [[pdf]](https://arxiv.org/pdf/2208.04254.pdf)
+- Multimodal Knowledge Alignment with Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2205.12630.pdf)
 
 ## New Large-Scale Datasets
 - **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
