@@ -222,6 +222,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 
 ### Resources
 - [Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/)
+- [CVPR23 Tutorial](https://vlp-tutorial.github.io/2023/)
 - [CVPR22 Tutorial](https://vlp-tutorial.github.io/2022/)
 - [CVPR21 Tutorial](https://vqa2vln-tutorial.github.io/)
 - [CVPR20 Tutorial](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/)
