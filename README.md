@@ -155,6 +155,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[ALIGN]** Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[pdf]](https://arxiv.org/pdf/2102.05918.pdf)
 - **[DeCLIP]** Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[pdf]](https://arxiv.org/pdf/2110.05208.pdf) [[code]](https://github.com/Sense-GVT/DeCLIP)
 - **[LiT]** Zero-Shot Transfer with Locked-image text Tuning [[pdf]](https://arxiv.org/pdf/2111.07991.pdf) [[code]](https://github.com/google-research/vision_transformer) [[website]](https://google-research.github.io/vision_transformer/lit/)
+- **[ZeroCap]** Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic [[pdf]](https://arxiv.org/pdf/2111.14447.pdf) [[code]](https://github.com/YoadTew/zero-shot-image-to-text)
 - **[FLIP]** Scaling Language-Image Pre-training via Masking [[pdf]](https://arxiv.org/pdf/2212.00794.pdf)
 - **[FILIP]** Fine-grained Interactive Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2111.07783.pdf)
 - **[WiSE-FT]** Robust fine-tuning of zero-shot models [[pdf]](https://arxiv.org/pdf/2109.01903.pdf) [[code]](https://github.com/mlfoundations/wise-ft)
@@ -178,6 +179,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
 - CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet [[pdf]](https://arxiv.org/pdf/2212.06138.pdf) [[code]](https://github.com/LightDXY/FT-CLIP)
+- Zero-Shot Video Captioning with Evolving Pseudo-Tokens [[pdf]](https://arxiv.org/pdf/2207.11100.pdf) [[code]](https://github.com/YoadTew/zero-shot-video-to-text)
 - [CLIP Varaints](https://github.com/lucidrains/x-clip)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
 
