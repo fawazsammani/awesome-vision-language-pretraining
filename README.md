@@ -116,6 +116,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[PaLM-E]** An Embodied Multimodal Language Model [[pdf]](https://arxiv.org/pdf/2303.03378.pdf) [[website]](https://palm-e.github.io/) [[blog]](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
 - **[X-Decoder]** Generalized Decoding for Pixel, Image, and Language [[pdf]](https://arxiv.org/pdf/2212.11270.pdf) [[code]](https://github.com/microsoft/X-Decoder) [[website]](https://x-decoder-vl.github.io/) [[demo]](https://huggingface.co/spaces/xdecoder/Demo)
 - **[GigaGAN]** Scaling up GANs for Text-to-Image Synthesis [[pdf]](https://arxiv.org/pdf/2303.05511.pdf) [[code]](https://github.com/lucidrains/gigagan-pytorch) [[website]](https://mingukkang.github.io/GigaGAN/)
+- Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text [[pdf]](https://arxiv.org/pdf/2112.07074.pdf)
 - Perceptual Grouping in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.09996.pdf)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
 - A Closer Look at the Robustness of Vision-and-Language Pre-trained Models [[pdf]](https://arxiv.org/pdf/2012.08673.pdf)
