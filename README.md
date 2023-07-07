@@ -108,7 +108,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[KOSMOS-1]** Language Is Not All You Need: Aligning Perception with Language Models [[pdf]](https://arxiv.org/pdf/2302.14045.pdf) [[code]](https://github.com/microsoft/unilm)
 - **[Visual ChatGPT]** Talking, Drawing and Editing with Visual Foundation Models [[pdf]](https://arxiv.org/pdf/2303.04671.pdf) [[code]](https://github.com/microsoft/visual-chatgpt) 
 - **[MultiModal-GPT]** A Vision and Language Model for Dialogue with Humans [[pdf]](https://arxiv.org/pdf/2305.04790.pdf) [[code]](https://github.com/open-mmlab/Multimodal-GPT)
-- **[Img2Prompt]** From Images to Textual Prompts: Zero-shot Visual Question Answering with Frozen Large Language Models [[pdf]](https://arxiv.org/pdf/2212.10846.pdf) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa)
+- **[Img2LLM]** From Images to Textual Prompts: Zero-shot Visual Question Answering with Frozen Large Language Models [[pdf]](https://arxiv.org/pdf/2212.10846.pdf) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa)
 - **[GILL]** Generating Images with Multimodal Language Models [[pdf]](https://arxiv.org/pdf/2305.17216.pdf) [[code]](https://github.com/kohjingyu/gill) [[website]](https://jykoh.com/gill)
 - **[Graph-Align]** Unpaired Image Captioning via Scene Graph Alignments [[pdf]](https://arxiv.org/pdf/1903.10658.pdf)
 - **[Prismer]** A Vision-Language Model with Multi-Modal Experts [[pdf]](https://arxiv.org/pdf/2303.02506.pdf) [[code]](https://github.com/NVlabs/prismer) [[website]](https://shikun.io/projects/prismer) [[demo]](https://huggingface.co/spaces/lorenmt/prismer)
