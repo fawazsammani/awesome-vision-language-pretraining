@@ -123,7 +123,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[CM3Leon]** Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning [[pdf]](https://scontent-bru2-1.xx.fbcdn.net/v/t39.2365-6/358725877_789390529544546_1176484804732743296_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=6UJxCrFyo1kAX8C0-if&_nc_ht=scontent-bru2-1.xx&oh=00_AfAhpsoexYSfiwS5xjTkgm08RWW8EB9mLvcCXDwWBUI3AA&oe=64C33272)
 - **[LLaVA]** Visual Instruction Tuning [[pdf]](https://arxiv.org/pdf/2304.08485.pdf) [[code]](https://github.com/haotian-liu/LLaVA) [[website]](https://llava-vl.github.io/) [[demo]](https://llava.hliu.cc/)
 - **[MiniGPT-4]** Enhancing Vision-Language Understanding with Advanced Large Language Models [[pdf]](https://arxiv.org/pdf/2304.10592.pdf) [[code]](https://github.com/Vision-CAIR/MiniGPT-4) [[website]](https://minigpt-4.github.io/) [[demo]](https://huggingface.co/spaces/Vision-CAIR/minigpt4) 
-- Self Supervision Does Not Help Natural Language Supervision at Scale [[pdf]](https://arxiv.org/pdf/2301.07836.pdf)
+- Masked Autoencoding Does Not Help Natural Language Supervision at Scale [[pdf]](https://arxiv.org/pdf/2301.07836.pdf)
 - Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text [[pdf]](https://arxiv.org/pdf/2112.07074.pdf)
 - Perceptual Grouping in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.09996.pdf)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
