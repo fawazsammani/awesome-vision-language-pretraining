@@ -134,7 +134,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Playing Lottery Tickets with Vision and Language [[pdf]](https://arxiv.org/pdf/2104.11832.pdf)
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf)
 - Do DALL-E and Flamingo Understand Each Other? [[pdf]](https://arxiv.org/pdf/2212.12249.pdf)
-- CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
 
 ## CLIP-related
 - **[CLIP]** Learning Transferable Visual Models From Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2103.00020.pdf) [[code]](https://github.com/openai/CLIP) [[code]](https://github.com/Zasder3/train-CLIP) [[clip-retrieval]](https://github.com/rom1504/clip-retrieval) [[clip-retrieval blog]](https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c) [[CLIP_benchmark]](https://github.com/LAION-AI/CLIP_benchmark) [[website]](https://openai.com/blog/clip/) [[video]](https://www.youtube.com/watch?v=T9XSU0pKX2E&t=1455s&ab_channel=YannicKilcher) [[video]](https://www.youtube.com/watch?v=fQyHEXZB-nM&ab_channel=AleksaGordi%C4%87-TheAIEpiphany) [[video code]](https://www.youtube.com/watch?v=jwZQD0Cqz4o&t=4610s&ab_channel=TheAIEpiphany)
@@ -167,6 +166,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
 - CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet [[pdf]](https://arxiv.org/pdf/2212.06138.pdf) [[code]](https://github.com/LightDXY/FT-CLIP)
 - Zero-Shot Video Captioning with Evolving Pseudo-Tokens [[pdf]](https://arxiv.org/pdf/2207.11100.pdf) [[code]](https://github.com/YoadTew/zero-shot-video-to-text)
+- CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
 - [CLIP Varaints](https://github.com/lucidrains/x-clip)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
 
