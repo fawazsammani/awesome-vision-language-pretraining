@@ -239,13 +239,15 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - [image captioning](https://github.com/zhjohnchan/awesome-image-captioning)
 - [scene graphs](https://github.com/huoxingmeishi/Awesome-Scene-Graphs)
 
-### Surveys
+### Survey Papers
 - Vision-Language Pre-training: Basics, Recent Advances, and Future Trends [[pdf]](https://arxiv.org/pdf/2210.09263.pdf)
 - A Survey of Vision-Language Pre-Trained Models [[pdf]](https://arxiv.org/pdf/2202.10936.pdf)
 - VLP: A Survey on Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2202.09061.pdf)
 - Vision Language models: towards multi-modal deep learning [[blog]](https://theaisummer.com/vision-language-models/)
 
 ### Resources
+- [Comparing image captioning models](https://huggingface.co/spaces/nielsr/comparing-captioning-models)
+- [Comparing visual question answering (VQA) models](https://huggingface.co/spaces/nielsr/comparing-VQA-models)
 - [Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/)
 - [CVPR23 Tutorial](https://vlp-tutorial.github.io/2023/)
 - [CVPR22 Tutorial](https://vlp-tutorial.github.io/2022/)
