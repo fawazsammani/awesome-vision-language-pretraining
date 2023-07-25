@@ -173,6 +173,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[FILIP]** Fine-grained Interactive Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2111.07783.pdf)
 - **[SLIP]** Self-supervision meets Language-Image Pre-training [[pdf]](https://people.eecs.berkeley.edu/~daw/papers/slip-eccv22.pdf) [[code]](https://github.com/facebookresearch/SLIP)
 - **[xCLIP]** Non-Contrastive Learning Meets Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2210.09304.pdf)
+- **[EVA-CLIP]** Improved Training Techniques for CLIP at Scale [[pdf]](https://arxiv.org/pdf/2303.15389.pdf) [[code]](https://github.com/baaivision/EVA/tree/master/EVA-CLIP)
 - **[MAGIC]** Plugging Visual Controls in Text Generation [[pdf]](https://arxiv.org/pdf/2205.02655.pdf) [[code]](https://github.com/yxuansu/MAGIC)
 - **[ZeroCap]** Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic [[pdf]](https://arxiv.org/pdf/2111.14447.pdf) [[code]](https://github.com/YoadTew/zero-shot-image-to-text)
 - **[WiSE-FT]** Robust fine-tuning of zero-shot models [[pdf]](https://arxiv.org/pdf/2109.01903.pdf) [[code]](https://github.com/mlfoundations/wise-ft)
