@@ -148,7 +148,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[DeCLIP]** Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[pdf]](https://arxiv.org/pdf/2110.05208.pdf) [[code]](https://github.com/Sense-GVT/DeCLIP)
 - **[LiT]** Zero-Shot Transfer with Locked-image text Tuning [[pdf]](https://arxiv.org/pdf/2111.07991.pdf) [[code]](https://github.com/google-research/vision_transformer) [[website]](https://google-research.github.io/vision_transformer/lit/)
 - **[ZeroCap]** Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic [[pdf]](https://arxiv.org/pdf/2111.14447.pdf) [[code]](https://github.com/YoadTew/zero-shot-image-to-text)
-- **[FLIP]** Scaling Language-Image Pre-training via Masking [[pdf]](https://arxiv.org/pdf/2212.00794.pdf)
+- **[FLIP]** Scaling Language-Image Pre-training via Masking [[pdf]](https://arxiv.org/pdf/2212.00794.pdf) [[code]](https://github.com/facebookresearch/flip)
 - **[FILIP]** Fine-grained Interactive Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2111.07783.pdf)
 - **[SLIP]** Self-supervision meets Language-Image Pre-training [[pdf]](https://people.eecs.berkeley.edu/~daw/papers/slip-eccv22.pdf) [[code]](https://github.com/facebookresearch/SLIP)
 - **[WiSE-FT]** Robust fine-tuning of zero-shot models [[pdf]](https://arxiv.org/pdf/2109.01903.pdf) [[code]](https://github.com/mlfoundations/wise-ft)
