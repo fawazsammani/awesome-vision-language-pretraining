@@ -123,6 +123,11 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[MultiModal-GPT]** A Vision and Language Model for Dialogue with Humans [[pdf]](https://arxiv.org/pdf/2305.04790.pdf) [[code]](https://github.com/open-mmlab/Multimodal-GPT)
 - **[LLaVA]** Visual Instruction Tuning [[pdf]](https://arxiv.org/pdf/2304.08485.pdf) [[code]](https://github.com/haotian-liu/LLaVA) [[website]](https://llava-vl.github.io/) [[demo]](https://llava.hliu.cc/)
 - **[MiniGPT-4]** Enhancing Vision-Language Understanding with Advanced Large Language Models [[pdf]](https://arxiv.org/pdf/2304.10592.pdf) [[code]](https://github.com/Vision-CAIR/MiniGPT-4) [[website]](https://minigpt-4.github.io/) [[demo]](https://huggingface.co/spaces/Vision-CAIR/minigpt4) 
+- **[LLaMA-Adapter V2]** Parameter-Efficient Visual Instruction Model [[pdf]](https://arxiv.org/pdf/2304.15010.pdf) [[code]](https://github.com/OpenGVLab/LLaMA-Adapter) [[demo]](http://llama-adapter.opengvlab.com/)
+- **[LaVIN]** Efficient Vision-Language Instruction Tuning for Large Language Models [[pdf]](https://arxiv.org/pdf/2305.15023.pdf) [[code]](https://github.com/luogen1996/LaVIN) [[website]](https://luogen1996.github.io/lavin/)
+- **[MetaVL]** Transferring In-Context Learning Ability From Language Models to Vision-Language Models [[pdf]](https://arxiv.org/pdf/2306.01311.pdf)
+- **[mPLUG-Owl]** Modularization Empowers Large Language Models with Multimodality [[pdf]](https://arxiv.org/pdf/2304.14178.pdf) [[code]](https://github.com/X-PLUG/mPLUG-Owl) [[demo]](https://huggingface.co/spaces/MAGAer13/mPLUG-Owl)
+- **[VisionLLM]** Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks [[pdf]](https://arxiv.org/pdf/2305.11175.pdf) [[code]](https://github.com/OpenGVLab/VisionLLM) [[blog]](https://wandb.ai/byyoung3/ml-news/reports/Introducing-VisionLLM-A-New-Method-for-Multi-Modal-LLM-s--Vmlldzo0NTMzNzIz)
 - Masked Autoencoding Does Not Help Natural Language Supervision at Scale [[pdf]](https://arxiv.org/pdf/2301.07836.pdf)
 - Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text [[pdf]](https://arxiv.org/pdf/2112.07074.pdf)
 - Perceptual Grouping in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.09996.pdf)
@@ -213,6 +218,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - [scene graphs](https://github.com/huoxingmeishi/Awesome-Scene-Graphs)
 
 ### Surveys
+- Vision-Language Pre-training: Basics, Recent Advances, and Future Trends [[pdf]](https://arxiv.org/pdf/2210.09263.pdf)
 - A Survey of Vision-Language Pre-Trained Models [[pdf]](https://arxiv.org/pdf/2202.10936.pdf)
 - VLP: A Survey on Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2202.09061.pdf)
 - Vision Language models: towards multi-modal deep learning [[blog]](https://theaisummer.com/vision-language-models/)
