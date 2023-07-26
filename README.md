@@ -119,6 +119,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[PaLM-E]** An Embodied Multimodal Language Model [[pdf]](https://arxiv.org/pdf/2303.03378.pdf) [[website]](https://palm-e.github.io/) [[blog]](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
 - **[X-Decoder]** Generalized Decoding for Pixel, Image, and Language [[pdf]](https://arxiv.org/pdf/2212.11270.pdf) [[code]](https://github.com/microsoft/X-Decoder) [[website]](https://x-decoder-vl.github.io/) [[demo]](https://huggingface.co/spaces/xdecoder/Demo)
 - **[I2MVFormer]** Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification [[pdf]](https://arxiv.org/pdf/2212.02291.pdf)
+- **[PerVL]** Personalizing frozen vision-language representations [[pdf]](https://arxiv.org/pdf/2204.01694.pdf) [[code]](https://github.com/NVlabs/PALAVRA)
 - **[GigaGAN]** Scaling up GANs for Text-to-Image Synthesis [[pdf]](https://arxiv.org/pdf/2303.05511.pdf) [[code]](https://github.com/lucidrains/gigagan-pytorch) [[website]](https://mingukkang.github.io/GigaGAN/)
 - **[K-LITE]** Learning Transferable Visual Models with External Knowledge [[pdf]](https://arxiv.org/pdf/2204.09222.pdf) [[code]](https://github.com/microsoft/klite)
 - **[Visual ChatGPT]** Talking, Drawing and Editing with Visual Foundation Models [[pdf]](https://arxiv.org/pdf/2303.04671.pdf) [[code]](https://github.com/microsoft/visual-chatgpt) 
