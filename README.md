@@ -138,6 +138,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[M³IT]** A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning [[pdf]](https://arxiv.org/pdf/2306.04387.pdf) [[website]](https://m3-it.github.io/)
 - **[Instruction-ViT]** Multi-Modal Prompts for Instruction Learning in ViT [[pdf]](https://arxiv.org/pdf/2305.00201.pdf)
 - **[MultiInstruct]** Improving Multi-Modal Zero-Shot Learning via Instruction Tuning [[pdf]](https://arxiv.org/pdf/2212.10773.pdf) [[code]](https://github.com/VT-NLP/MultiInstruct)
+- **[GPT4RoI]** Instruction Tuning Large Language Model on Region-of-Interest [[pdf]](https://arxiv.org/pdf/2307.03601.pdf) [[code]](https://github.com/jshilong/GPT4RoI) [[demo]](http://139.196.83.164:7000/)
 - **[ChatBridge]** Bridging Modalities with Large Language Model as a Language Catalyst [[pdf]](https://arxiv.org/pdf/2305.16103.pdf) [[code]](https://github.com/joez17/ChatBridge) [[website]](https://iva-chatbridge.github.io/)
 - **[ImageBind]** One Embedding Space To Bind Them All [[pdf]](https://arxiv.org/pdf/2305.05665.pdf) [[code]](https://github.com/facebookresearch/ImageBind) [[demo]](https://imagebind.metademolab.com/)
 - **[PandaGPT]** One Model To Instruction-Follow Them All [[pdf]](https://arxiv.org/pdf/2305.16355.pdf) [[code]](https://github.com/yxuansu/PandaGPT) [[demo]](https://huggingface.co/spaces/GMFTBY/PandaGPT) [[website]](https://panda-gpt.github.io/)
