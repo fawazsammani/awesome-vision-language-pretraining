@@ -257,6 +257,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - [Comparing image captioning models](https://huggingface.co/spaces/nielsr/comparing-captioning-models)
 - [Comparing visual question answering (VQA) models](https://huggingface.co/spaces/nielsr/comparing-VQA-models)
 - [Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/)
+- [Prompting in Vision CVPR23 Tutorial](https://prompting-in-vision.github.io/)
 - [CVPR23 Tutorial](https://vlp-tutorial.github.io/2023/)
 - [CVPR22 Tutorial](https://vlp-tutorial.github.io/2022/)
 - [CVPR21 Tutorial](https://vqa2vln-tutorial.github.io/)
