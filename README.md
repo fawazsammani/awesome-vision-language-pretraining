@@ -169,7 +169,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - On Guiding Visual Attention with Language Specification [[pdf]](https://arxiv.org/pdf/2202.08926.pdf)
 - Compressing Visual-linguistic Model via Knowledge Distillation [[pdf]](https://arxiv.org/pdf/2104.02096.pdf)
 - Playing Lottery Tickets with Vision and Language [[pdf]](https://arxiv.org/pdf/2104.11832.pdf)
-- Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf)
 - Do DALL-E and Flamingo Understand Each Other? [[pdf]](https://arxiv.org/pdf/2212.12249.pdf)
 
 ## CLIP-related
@@ -202,6 +201,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[SVLC]** Teaching Structured Vision & Language Concepts to Vision & Language Models [[pdf]](https://arxiv.org/pdf/2211.11733.pdf)
 - **[CuPL]** Generating customized prompts for zero-shot image classification [[pdf]](https://arxiv.org/pdf/2209.03320.pdf) [[code]](https://github.com/sarahpratt/CuPL)
 - **[Internet Explorer]** Targeted Representation Learning on the Open Web [[pdf]](https://arxiv.org/pdf/2302.14051.pdf) [[code]](https://github.com/internet-explorer-ssl/internet-explorer) [[website]](https://internet-explorer-ssl.github.io/)
+- Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
 - The Unreasonable Effectiveness of CLIP Features for Image Captioning: An Experimental Analysis [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/MULA/papers/Barraco_The_Unreasonable_Effectiveness_of_CLIP_Features_for_Image_Captioning_An_CVPRW_2022_paper.pdf)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
