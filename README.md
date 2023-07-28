@@ -220,6 +220,40 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Distinctive Image Captioning via CLIP Guided Group Optimization [[pdf]](https://arxiv.org/pdf/2208.04254.pdf)
 - Multimodal Knowledge Alignment with Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2205.12630.pdf)
 
+## Miscellaneous
+- SetFit: Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
+- LoRA: Low-Rank Adaptation of Large Language Models [[pdf]](https://arxiv.org/pdf/2106.09685.pdf) [[code]](https://github.com/microsoft/LoRA) [[code]](https://github.com/huggingface/peft) [[colab]](https://colab.research.google.com/drive/1jCkpikz0J2o20FBQmYmAGdiKmJGOMo-o?usp=sharing) [[blog]](https://huggingface.co/blog/peft)
+- QLoRA: Efficient Finetuning of Quantized LLMs [[pdf]](https://arxiv.org/pdf/2305.14314.pdf) [[code]](https://github.com/artidoro/qlora) [[demo]](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi) [[blog]](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
+- OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [[code]](https://github.com/facebookresearch/metaseq) [[code]](https://huggingface.co/docs/transformers/model_doc/opt)
+- LLaMA: Open and Efficient Foundation Language Models [[pdf]](https://arxiv.org/pdf/2302.13971v1.pdf) [[code]](https://github.com/facebookresearch/llama) [[cpp]](https://github.com/ggerganov/llama.cpp) [[blog]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) [[video]](https://www.youtube.com/watch?v=E5OnoYF2oAk&t=1915s)
+- Llama 2: Open Foundation and Fine-Tuned Chat Models [[pdf]](https://arxiv.org/pdf/2307.09288.pdf) [[code]](https://github.com/facebookresearch/llama) [[models]](https://huggingface.co/meta-llama) [[demo]](https://labs.perplexity.ai/) [[demo]](https://huggingface.co/chat) [[blog]](https://ai.meta.com/llama/) [[blog]](https://ai.meta.com/resources/models-and-libraries/llama/) [[blog]](https://huggingface.co/blog/llama2) [[blog]](https://www.philschmid.de/llama-2) [[llama2.c]](https://github.com/karpathy/llama2.c) [[finetune script]](https://gist.github.com/younesbelkada/9f7f75c94bdc1981c8ca5cc937d4a4da) [[finetune script]](https://www.philschmid.de/sagemaker-llama2-qlora) [[finetune script]](https://www.philschmid.de/instruction-tune-llama-2)
+- Galactica: A Large Language Model for Science [[pdf]](https://www.galactica.org/static/paper.pdf) [[code]](https://github.com/paperswithcode/galai) [[website]](https://www.galactica.org/) [[video]](https://www.youtube.com/watch?v=ZTs_mXwMCs8&ab_channel=YannicKilcher) [[model card]](https://huggingface.co/facebook/galactica-120b) [[official demo]](https://www.galactica.org/) [[demo]](https://huggingface.co/spaces/lewtun/galactica-demo)
+- GPT-3: Language Models are Few-Shot Learners [[pdf]](https://arxiv.org/pdf/2005.14165.pdf) [[miniGPT]](https://github.com/karpathy/minGPT) [[nanoGPT]](https://github.com/karpathy/nanoGPT)
+- ChatGPT [[blog]](https://openai.com/blog/chatgpt/) [[RLHF]](https://arxiv.org/pdf/2009.01325.pdf) [[InstructGPT]](https://arxiv.org/pdf/2203.02155.pdf) [[InstructGPT blog]](https://openai.com/blog/instruction-following/) [[rlhf hf]](https://huggingface.co/blog/rlhf) [[rlhf wandb]](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx) [[code]](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+- GPT-4 [[blog]](https://openai.com/gpt-4) [[blog]](https://openai.com/research/gpt-4) [[technical report]](https://arxiv.org/pdf/2303.08774.pdf)
+- SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions [[pdf]](https://arxiv.org/pdf/2212.10560.pdf) [[code]](https://github.com/yizhongw/self-instruct)
+- Alpaca: A Strong Open-Source Instruction-Following Model [[website]](https://crfm.stanford.edu/2023/03/13/alpaca.html) [[code]](https://github.com/tatsu-lab/stanford_alpaca) [[model]](https://huggingface.co/chavinlo/alpaca-13b) [[demo]](https://alpaca-ai.ngrok.io/) [[gpt4-x-alpaca]](https://huggingface.co/chavinlo/gpt4-x-alpaca)
+- Vicuna: Judging LLM-as-a-judge with MT-Bench and Chatbot Arena [[website]](https://lmsys.org/blog/2023-03-30-vicuna/) [[code]](https://github.com/lm-sys/FastChat) [[demo]](https://chat.lmsys.org/)
+- Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM [[code]](https://github.com/databrickslabs/dolly) [[models]](https://huggingface.co/databricks)
+- Large Language Models Are Reasoning Teachers [[pdf]](https://arxiv.org/pdf/2212.10071.pdf) [[code]](https://github.com/itsnamgyu/reasoning-teacher)
+- Cramming: Training a Language Model on a Single GPU in One Day [[pdf]](https://arxiv.org/pdf/2212.14034.pdf) 
+- Downstream Datasets Make Surprisingly Good Pretraining Corpora [[pdf]](https://arxiv.org/pdf/2209.14389.pdf)
+- FCM: Towards Better Few-Shot and Finetuning Performance with Forgetful Causal Language Models [[pdf]](https://arxiv.org/pdf/2210.13432.pdf) [[code]](https://github.com/lucidrains/x-transformers)
+- Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes [[pdf]](https://arxiv.org/pdf/2305.02301.pdf)
+- Deep Learning Tuning Playbook [[github]](https://github.com/google-research/tuning_playbook)
+
+**Prompting**
+
+- The Power of Scale for Parameter-Efficient Prompt Tuning [[pdf]](https://arxiv.org/pdf/2104.08691.pdf) [[code]](https://github.com/google-research/prompt-tuning) [[code]](https://huggingface.co/docs/peft/task_guides/clm-prompt-tuning) [[blog]](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html?m=1) [[blog]](https://heidloff.net/article/introduction-to-prompt-tuning/)
+- Prefix-Tuning: Optimizing Continuous Prompts for Generation [[pdf]](https://arxiv.org/pdf/2101.00190.pdf)
+- GPT Understands, Too [[pdf]](https://arxiv.org/pdf/2103.10385.pdf) [[code]](https://github.com/THUDM/P-tuning)
+- Making Pre-trained Language Models Better Few-shot Learners [[pdf]](https://arxiv.org/pdf/2012.15723.pdf) [[code]](https://github.com/princeton-nlp/LM-BFF)
+- AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts [[pdf]](https://arxiv.org/pdf/2010.15980.pdf)
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903.pdf) [[blog]](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html?m=1)
+- Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models [[pdf]](https://arxiv.org/pdf/2305.04091.pdf) [[code]](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
+- Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
+- An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [[pdf]](https://arxiv.org/pdf/2208.01618.pdf) [[code]](https://github.com/rinongal/textual_inversion) [[code]](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion) [[website]](https://textual-inversion.github.io/) [[blog]](https://medium.com/@onkarmishra/how-textual-inversion-works-and-its-applications-5e3fda4aa0bc)
+
 ## New Large-Scale Datasets
 - **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
 - **[LAION]** [[website]](https://laion.ai/) [[hf website]](https://huggingface.co/laion) [[paper]](https://openreview.net/pdf?id=M3Y74vmsMcY) [[paper]](https://arxiv.org/pdf/2111.02114.pdf) [[img2dataset]](https://github.com/rom1504/img2dataset)
