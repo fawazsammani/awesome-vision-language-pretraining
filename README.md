@@ -127,6 +127,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[I2MVFormer]** Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification [[pdf]](https://arxiv.org/pdf/2212.02291.pdf)
 - **[PerVL]** Personalizing frozen vision-language representations [[pdf]](https://arxiv.org/pdf/2204.01694.pdf) [[code]](https://github.com/NVlabs/PALAVRA)
 - **[GigaGAN]** Scaling up GANs for Text-to-Image Synthesis [[pdf]](https://arxiv.org/pdf/2303.05511.pdf) [[code]](https://github.com/lucidrains/gigagan-pytorch) [[website]](https://mingukkang.github.io/GigaGAN/)
+- **[Cola]** Language Models are Visual Reasoning Coordinators [[pdf]](https://openreview.net/pdf?id=kdHpWogtX6Y) [[code]](https://github.com/cliangyu/Cola)
 - **[K-LITE]** Learning Transferable Visual Models with External Knowledge [[pdf]](https://arxiv.org/pdf/2204.09222.pdf) [[code]](https://github.com/microsoft/klite)
 - **[Visual ChatGPT]** Talking, Drawing and Editing with Visual Foundation Models [[pdf]](https://arxiv.org/pdf/2303.04671.pdf) [[code]](https://github.com/microsoft/visual-chatgpt) 
 - **[UPT]** Unified Vision and Language Prompt Learning [[pdf]](https://arxiv.org/pdf/2210.07225.pdf) [[code]](https://github.com/yuhangzang/UPT)
@@ -181,11 +182,12 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[STAIR]** Learning Sparse Text and Image Representation in Grounded Tokens [[pdf]](https://arxiv.org/pdf/2301.13081.pdf)
 - **[FILIP]** Fine-grained Interactive Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2111.07783.pdf)
 - **[SLIP]** Self-supervision meets Language-Image Pre-training [[pdf]](https://people.eecs.berkeley.edu/~daw/papers/slip-eccv22.pdf) [[code]](https://github.com/facebookresearch/SLIP)
-- **[xCLIP]** Non-Contrastive Learning Meets Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2210.09304.pdf)
-- **[EVA]** Visual Representation Fantasies from BAAI [[EVA]](https://arxiv.org/pdf/2211.07636.pdf) [[EVA-CLIP]](https://arxiv.org/pdf/2303.15389.pdf) [[EVA-02]](https://arxiv.org/pdf/2303.11331.pdf) [[code]](https://github.com/baaivision/EVA)
+- **[WiSE-FT]** Robust fine-tuning of zero-shot models [[pdf]](https://arxiv.org/pdf/2109.01903.pdf) [[code]](https://github.com/mlfoundations/wise-ft)
+- **[FLYP]** Finetune like you pretrain: Improved finetuning of zero-shot vision models [[pdf]](https://arxiv.org/pdf/2212.00638.pdf) [[code]](https://github.com/locuslab/FLYP)
 - **[MAGIC]** Plugging Visual Controls in Text Generation [[pdf]](https://arxiv.org/pdf/2205.02655.pdf) [[code]](https://github.com/yxuansu/MAGIC)
 - **[ZeroCap]** Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic [[pdf]](https://arxiv.org/pdf/2111.14447.pdf) [[code]](https://github.com/YoadTew/zero-shot-image-to-text)
-- **[WiSE-FT]** Robust fine-tuning of zero-shot models [[pdf]](https://arxiv.org/pdf/2109.01903.pdf) [[code]](https://github.com/mlfoundations/wise-ft)
+- **[xCLIP]** Non-Contrastive Learning Meets Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2210.09304.pdf)
+- **[EVA]** Visual Representation Fantasies from BAAI [[EVA]](https://arxiv.org/pdf/2211.07636.pdf) [[EVA-CLIP]](https://arxiv.org/pdf/2303.15389.pdf) [[EVA-02]](https://arxiv.org/pdf/2303.11331.pdf) [[code]](https://github.com/baaivision/EVA)
 - **[VT-CLIP]** Enhancing Vision-Language Models with Visual-guided Texts [[pdf]](https://arxiv.org/pdf/2112.02399.pdf)
 - **[CLIP-ViL]** How Much Can CLIP Benefit Vision-and-Language Tasks? [[pdf]](https://arxiv.org/pdf/2107.06383.pdf) [[code]](https://github.com/clip-vil/CLIP-ViL)
 - **[RegionCLIP]** Region-based Language-Image Pretraining [[pdf]](https://arxiv.org/pdf/2112.09106.pdf) [[code]](https://github.com/microsoft/RegionCLIP)
@@ -241,6 +243,8 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - FCM: Towards Better Few-Shot and Finetuning Performance with Forgetful Causal Language Models [[pdf]](https://arxiv.org/pdf/2210.13432.pdf) [[code]](https://github.com/lucidrains/x-transformers)
 - Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes [[pdf]](https://arxiv.org/pdf/2305.02301.pdf)
 - Deep Learning Tuning Playbook [[github]](https://github.com/google-research/tuning_playbook)
+- Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time [[pdf]](https://arxiv.org/pdf/2203.05482.pdf) [[code]](https://github.com/mlfoundations/model-soups)
+- Neural Priming for Sample-Efficient Adaptation [[pdf]](https://arxiv.org/pdf/2306.10191.pdf) [[code]](https://github.com/RAIVNLab/neural-priming)
 
 **Prompting**
 
@@ -253,6 +257,13 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models [[pdf]](https://arxiv.org/pdf/2305.04091.pdf) [[code]](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
 - Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
 - An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [[pdf]](https://arxiv.org/pdf/2208.01618.pdf) [[code]](https://github.com/rinongal/textual_inversion) [[code]](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion) [[website]](https://textual-inversion.github.io/) [[blog]](https://medium.com/@onkarmishra/how-textual-inversion-works-and-its-applications-5e3fda4aa0bc)
+- DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[pdf]](https://arxiv.org/pdf/2208.12242.pdf) [[code]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) [[code]](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth) [[website]](https://dreambooth.github.io/)
+- Visual Prompt Tuning [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/kmnp/vpt)
+- Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://github.com/amirbar/visual_prompting) [[website]](https://yossigandelsman.github.io/visual_prompt/)
+- What Makes Good Examples for Visual In-Context Learning? [[pdf]](https://arxiv.org/pdf/2301.13670.pdf) [[code]](https://github.com/ZhangYuanhan-AI/visual_prompt_retrieval)
+- Exploring Demonstration Ensembling for In-context Learning [[pdf]](https://openreview.net/pdf?id=9kK4R_8nAsD)
+- Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations [[pdf]](https://arxiv.org/pdf/2212.09865.pdf) [[code]](https://github.com/alrope123/z-icl)
+- Variational Prompt Tuning Improves Generalization of Vision-Language Models [[pdf]](https://openreview.net/pdf?id=lJ5KlMWUzB)
 
 ## New Large-Scale Datasets
 - **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
