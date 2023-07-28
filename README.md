@@ -245,7 +245,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 **Prompting**
 
 - The Power of Scale for Parameter-Efficient Prompt Tuning [[pdf]](https://arxiv.org/pdf/2104.08691.pdf) [[code]](https://github.com/google-research/prompt-tuning) [[code]](https://huggingface.co/docs/peft/task_guides/clm-prompt-tuning) [[blog]](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html?m=1) [[blog]](https://heidloff.net/article/introduction-to-prompt-tuning/)
-- Prefix-Tuning: Optimizing Continuous Prompts for Generation [[pdf]](https://arxiv.org/pdf/2101.00190.pdf)
+- Prefix-Tuning: Optimizing Continuous Prompts for Generation [[pdf]](https://arxiv.org/pdf/2101.00190.pdf) [[code]](https://github.com/XiangLi1999/PrefixTuning)
 - GPT Understands, Too [[pdf]](https://arxiv.org/pdf/2103.10385.pdf) [[code]](https://github.com/THUDM/P-tuning)
 - Making Pre-trained Language Models Better Few-shot Learners [[pdf]](https://arxiv.org/pdf/2012.15723.pdf) [[code]](https://github.com/princeton-nlp/LM-BFF)
 - AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts [[pdf]](https://arxiv.org/pdf/2010.15980.pdf)
