@@ -261,6 +261,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Visual Prompt Tuning [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/kmnp/vpt)
 - Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://github.com/amirbar/visual_prompting) [[website]](https://yossigandelsman.github.io/visual_prompt/)
 - What Makes Good Examples for Visual In-Context Learning? [[pdf]](https://arxiv.org/pdf/2301.13670.pdf) [[code]](https://github.com/ZhangYuanhan-AI/visual_prompt_retrieval)
+- Understanding and Improving Visual Prompting: A Label-Mapping Perspective [[pdf]](https://arxiv.org/pdf/2211.11635.pdf) [[code]](https://github.com/OPTML-Group/ILM-VP)
 - Exploring Demonstration Ensembling for In-context Learning [[pdf]](https://openreview.net/pdf?id=9kK4R_8nAsD)
 - Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations [[pdf]](https://arxiv.org/pdf/2212.09865.pdf) [[code]](https://github.com/alrope123/z-icl)
 - Variational Prompt Tuning Improves Generalization of Vision-Language Models [[pdf]](https://openreview.net/pdf?id=lJ5KlMWUzB)
