@@ -127,7 +127,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[I2MVFormer]** Large Language Model Generated Multi-View Document Supervision for Zero-Shot Image Classification [[pdf]](https://arxiv.org/pdf/2212.02291.pdf)
 - **[PerVL]** Personalizing frozen vision-language representations [[pdf]](https://arxiv.org/pdf/2204.01694.pdf) [[code]](https://github.com/NVlabs/PALAVRA)
 - **[GigaGAN]** Scaling up GANs for Text-to-Image Synthesis [[pdf]](https://arxiv.org/pdf/2303.05511.pdf) [[code]](https://github.com/lucidrains/gigagan-pytorch) [[website]](https://mingukkang.github.io/GigaGAN/)
-- **[TextManiA]** Enriching Visual Feature by Text-driven Manifold Augmentation [[pdf]](https://arxiv.org/pdf/2307.14611.pdf) [[code]](https://github.com/postech-ami/TextManiA) [[website]](https://moon-yb.github.io/TextManiA.github.io/)
+- **[TextManiA]** Enriching Visual Feature by Text-driven Manifold Augmentation [[pdf]](https://arxiv.org/pdf/2307.14611.pdf) [[code]](https://github.com/postech-ami/TextManiA) [[website]](https://moon-yb.github.io/TextManiA.github.io/) [[GAN Inversion]](https://arxiv.org/pdf/2004.00049.pdf)
 - **[Cola]** Language Models are Visual Reasoning Coordinators [[pdf]](https://openreview.net/pdf?id=kdHpWogtX6Y) [[code]](https://github.com/cliangyu/Cola)
 - **[K-LITE]** Learning Transferable Visual Models with External Knowledge [[pdf]](https://arxiv.org/pdf/2204.09222.pdf) [[code]](https://github.com/microsoft/klite)
 - **[Visual ChatGPT]** Talking, Drawing and Editing with Visual Foundation Models [[pdf]](https://arxiv.org/pdf/2303.04671.pdf) [[code]](https://github.com/microsoft/visual-chatgpt) 
