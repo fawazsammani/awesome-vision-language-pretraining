@@ -165,6 +165,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
 - Image Captioners Are Scalable Vision Learners Too [[pdf]](https://arxiv.org/pdf/2306.07915.pdf)
+- Masked Autoencoding Does Not Help Natural Language Supervision at Scale [[pdf]](https://arxiv.org/pdf/2301.07836.pdf)
 - Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text [[pdf]](https://arxiv.org/pdf/2112.07074.pdf)
 - Perceptual Grouping in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.09996.pdf)
 - Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers [[pdf]](https://arxiv.org/pdf/2109.04448.pdf)
