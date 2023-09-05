@@ -240,7 +240,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - QLoRA: Efficient Finetuning of Quantized LLMs [[pdf]](https://arxiv.org/pdf/2305.14314.pdf) [[code]](https://github.com/artidoro/qlora) [[demo]](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi) [[blog]](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - OPT: Open Pre-trained Transformer Language Models [[pdf]](https://arxiv.org/pdf/2205.01068.pdf) [[code]](https://github.com/facebookresearch/metaseq) [[code]](https://huggingface.co/docs/transformers/model_doc/opt)
 - LLaMA: Open and Efficient Foundation Language Models [[pdf]](https://arxiv.org/pdf/2302.13971v1.pdf) [[code]](https://github.com/facebookresearch/llama) [[cpp]](https://github.com/ggerganov/llama.cpp) [[blog]](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) [[video]](https://www.youtube.com/watch?v=E5OnoYF2oAk&t=1915s)
-- Llama 2: Open Foundation and Fine-Tuned Chat Models [[pdf]](https://arxiv.org/pdf/2307.09288.pdf) [[code]](https://github.com/facebookresearch/llama) [[models]](https://huggingface.co/meta-llama) [[demo]](https://labs.perplexity.ai/) [[demo]](https://huggingface.co/chat) [[blog]](https://ai.meta.com/llama/) [[blog]](https://ai.meta.com/resources/models-and-libraries/llama/) [[blog]](https://huggingface.co/blog/llama2) [[blog]](https://www.philschmid.de/llama-2) [[blog]](https://medium.com/towards-generative-ai/understanding-llama-2-architecture-its-ginormous-impact-on-genai-e278cb81bd5c) [[llama2.c]](https://github.com/karpathy/llama2.c) [[finetune script]](https://gist.github.com/younesbelkada/9f7f75c94bdc1981c8ca5cc937d4a4da) [[finetune script]](https://www.philschmid.de/sagemaker-llama2-qlora) [[finetune script]](https://www.philschmid.de/instruction-tune-llama-2)
+- Llama 2: Open Foundation and Fine-Tuned Chat Models [[pdf]](https://arxiv.org/pdf/2307.09288.pdf) [[code]](https://github.com/facebookresearch/llama) [[models]](https://huggingface.co/meta-llama) [[demo]](https://labs.perplexity.ai/) [[demo]](https://huggingface.co/chat) [[blog]](https://ai.meta.com/llama/) [[blog]](https://ai.meta.com/resources/models-and-libraries/llama/) [[blog]](https://huggingface.co/blog/llama2) [[blog]](https://www.philschmid.de/llama-2) [[blog]](https://medium.com/towards-generative-ai/understanding-llama-2-architecture-its-ginormous-impact-on-genai-e278cb81bd5c) [[llama2.c]](https://github.com/karpathy/llama2.c) [[finetune script]](https://gist.github.com/younesbelkada/9f7f75c94bdc1981c8ca5cc937d4a4da) [[finetune script]](https://www.philschmid.de/sagemaker-llama2-qlora) [[finetune script]](https://www.philschmid.de/instruction-tune-llama-2) [[yarn]](https://github.com/jquesnelle/yarn)
 - Code Llama: Open Foundation Models for Code [[pdf]](https://arxiv.org/pdf/2308.12950.pdf) [[code]](https://github.com/facebookresearch/codellama) [[blog]](https://huggingface.co/blog/codellama) [[models and spaces]](https://huggingface.co/codellama) [[demo]](https://huggingface.co/chat)
 - Galactica: A Large Language Model for Science [[pdf]](https://www.galactica.org/static/paper.pdf) [[code]](https://github.com/paperswithcode/galai) [[website]](https://www.galactica.org/) [[video]](https://www.youtube.com/watch?v=ZTs_mXwMCs8&ab_channel=YannicKilcher) [[model card]](https://huggingface.co/facebook/galactica-120b) [[official demo]](https://www.galactica.org/) [[demo]](https://huggingface.co/spaces/lewtun/galactica-demo)
 - GPT-3: Language Models are Few-Shot Learners [[pdf]](https://arxiv.org/pdf/2005.14165.pdf) [[miniGPT]](https://github.com/karpathy/minGPT) [[nanoGPT]](https://github.com/karpathy/nanoGPT)
@@ -258,7 +258,9 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Deep Learning Tuning Playbook [[github]](https://github.com/google-research/tuning_playbook)
 - Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time [[pdf]](https://arxiv.org/pdf/2203.05482.pdf) [[code]](https://github.com/mlfoundations/model-soups)
 - Neural Priming for Sample-Efficient Adaptation [[pdf]](https://arxiv.org/pdf/2306.10191.pdf) [[code]](https://github.com/RAIVNLab/neural-priming)
-- [[x-transformers]](https://github.com/lucidrains/x-transformers)
+- ALiBi: Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation [[pdf]](https://arxiv.org/pdf/2108.12409.pdf)
+- Fine-tuning can cripple your foundation model; preserving features may be the solution [[pdf]](https://arxiv.org/pdf/2308.13320.pdf)
+- [x-transformers](https://github.com/lucidrains/x-transformers)
 
 **Prompting**
 
@@ -313,6 +315,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - A Survey of Vision-Language Pre-Trained Models [[pdf]](https://arxiv.org/pdf/2202.10936.pdf)
 - VLP: A Survey on Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2202.09061.pdf)
 - Vision Language models: towards multi-modal deep learning [[blog]](https://theaisummer.com/vision-language-models/)
+- Instruction Tuning for Large Language Models: A Survey [[pdf]](https://arxiv.org/pdf/2308.10792.pdf)
 
 ### Resources
 - [Comparing image captioning models](https://huggingface.co/spaces/nielsr/comparing-captioning-models)
