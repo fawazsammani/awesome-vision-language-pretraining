@@ -163,6 +163,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[OBELICS]** An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents [[pdf]](https://arxiv.org/pdf/2306.16527.pdf) [[blog]](https://huggingface.co/blog/idefics) [[models]](https://huggingface.co/HuggingFaceM4/idefics-80b) [[instruct models]](https://huggingface.co/HuggingFaceM4/idefics-80b-instruct) [[demo]](https://huggingface.co/spaces/HuggingFaceM4/idefics_playground) [[dataset]](https://huggingface.co/datasets/HuggingFaceM4/OBELICS)
 - **[Plug and Pray]** Exploiting off-the-shelf components of Multi-Modal Models [[pdf]](https://arxiv.org/pdf/2307.14539.pdf)
 - **[VL-PET]** Vision-and-Language Parameter-Efficient Tuning via Granularity Control [[pdf]](https://arxiv.org/pdf/2308.09804v1.pdf) [[code]](https://github.com/henryhzy/vl-pet)
+- **[ICIS]** Image-free Classifier Injection for Zero-Shot Classification [[pdf]](https://arxiv.org/pdf/2308.10599.pdf) [[code]](https://github.com/ExplainableML/ImageFreeZSL)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
 - Image Captioners Are Scalable Vision Learners Too [[pdf]](https://arxiv.org/pdf/2306.07915.pdf)
