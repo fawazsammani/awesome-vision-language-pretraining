@@ -262,6 +262,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Neural Priming for Sample-Efficient Adaptation [[pdf]](https://arxiv.org/pdf/2306.10191.pdf) [[code]](https://github.com/RAIVNLab/neural-priming)
 - ALiBi: Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation [[pdf]](https://arxiv.org/pdf/2108.12409.pdf)
 - Fine-tuning can cripple your foundation model; preserving features may be the solution [[pdf]](https://arxiv.org/pdf/2308.13320.pdf)
+- Can LLMs learn from a single example? [[article]](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
 - [x-transformers](https://github.com/lucidrains/x-transformers)
 
 **Prompting**
