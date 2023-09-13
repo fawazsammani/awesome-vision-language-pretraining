@@ -164,6 +164,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[Plug and Pray]** Exploiting off-the-shelf components of Multi-Modal Models [[pdf]](https://arxiv.org/pdf/2307.14539.pdf)
 - **[VL-PET]** Vision-and-Language Parameter-Efficient Tuning via Granularity Control [[pdf]](https://arxiv.org/pdf/2308.09804v1.pdf) [[code]](https://github.com/henryhzy/vl-pet)
 - **[ICIS]** Image-free Classifier Injection for Zero-Shot Classification [[pdf]](https://arxiv.org/pdf/2308.10599.pdf) [[code]](https://github.com/ExplainableML/ImageFreeZSL)
+- **[NExT-GPT]** Any-to-Any Multimodal LLM [[pdf]](https://arxiv.org/pdf/2309.05519.pdf) [[code]](https://github.com/NExT-GPT/NExT-GPT) [[website]](https://next-gpt.github.io/) [[demo]](https://4271670c463565f1a4.gradio.live/)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
 - Image Captioners Are Scalable Vision Learners Too [[pdf]](https://arxiv.org/pdf/2306.07915.pdf)
@@ -263,6 +264,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - ALiBi: Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation [[pdf]](https://arxiv.org/pdf/2108.12409.pdf)
 - Fine-tuning can cripple your foundation model; preserving features may be the solution [[pdf]](https://arxiv.org/pdf/2308.13320.pdf)
 - Can LLMs learn from a single example? [[article]](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
+- [Falcon LLM](https://huggingface.co/tiiuae)
 - [x-transformers](https://github.com/lucidrains/x-transformers)
 
 **Prompting**
