@@ -200,6 +200,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[FLYP]** Finetune like you pretrain: Improved finetuning of zero-shot vision models [[pdf]](https://arxiv.org/pdf/2212.00638.pdf) [[code]](https://github.com/locuslab/FLYP)
 - **[MAGIC]** Plugging Visual Controls in Text Generation [[pdf]](https://arxiv.org/pdf/2205.02655.pdf) [[code]](https://github.com/yxuansu/MAGIC)
 - **[ZeroCap]** Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic [[pdf]](https://arxiv.org/pdf/2111.14447.pdf) [[code]](https://github.com/YoadTew/zero-shot-image-to-text)
+- **[CapDec]** Text-Only Training for Image Captioning using Noise-Injected CLIP [[pdf]](https://arxiv.org/pdf/2211.00575.pdf) [[code]](https://github.com/DavidHuji/CapDec) [[colab]](https://colab.research.google.com/drive/1Jgj0uaALtile2iyqlN1r72UYRe9SZw-H?usp=sharing)
 - **[DeCap]** Decoding CLIP Latents for Zero-Shot Captioning via Text-Only Training [[pdf]](https://arxiv.org/pdf/2303.03032.pdf) [[code]](https://github.com/dhg-wei/DeCap)
 - **[xCLIP]** Non-Contrastive Learning Meets Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2210.09304.pdf)
 - **[EVA]** Visual Representation Fantasies from BAAI [[EVA]](https://arxiv.org/pdf/2211.07636.pdf) [[EVA-CLIP]](https://arxiv.org/pdf/2303.15389.pdf) [[EVA-02]](https://arxiv.org/pdf/2303.11331.pdf) [[code]](https://github.com/baaivision/EVA)
