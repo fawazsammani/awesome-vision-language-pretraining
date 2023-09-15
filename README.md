@@ -218,6 +218,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[CoCoOp]** Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
 - **[CuPL]** Generating customized prompts for zero-shot image classification [[pdf]](https://arxiv.org/pdf/2209.03320.pdf) [[code]](https://github.com/sarahpratt/CuPL)
 - **[WaffleCLIP]** Visual Classification with Random Words and Broad Concepts [[pdf]](https://arxiv.org/pdf/2306.07282.pdf) [[code]](https://github.com/ExplainableML/WaffleCLIP)
+- **[SuS-X]** Training-Free Name-Only Transfer of Vision-Language Models [[pdf]](https://arxiv.org/pdf/2211.16198.pdf) [[code]](https://github.com/vishaal27/SuS-X)
 - **[Internet Explorer]** Targeted Representation Learning on the Open Web [[pdf]](https://arxiv.org/pdf/2302.14051.pdf) [[code]](https://github.com/internet-explorer-ssl/internet-explorer) [[website]](https://internet-explorer-ssl.github.io/)
 - **[SEARLE]** Zero-Shot Composed Image Retrieval with Textual Inversion [[pdf]](https://arxiv.org/pdf/2303.15247.pdf) [[code]](https://github.com/miccunifi/SEARLE)
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
