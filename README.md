@@ -164,6 +164,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[P-Former]** Bootstrapping Vision-Language Learning with Decoupled Language Pre-training [[pdf]](https://arxiv.org/pdf/2307.07063.pdf)
 - **[PMA-Net]** Prototypical Memory Networks for Image Captioning [[pdf]](https://arxiv.org/pdf/2308.12383.pdf) [[code]](https://github.com/aimagelab/PMA-Net)
 - **[Encyclopedic VQA]** Visual questions about detailed properties of fine-grained categories [[pdf]](https://arxiv.org/pdf/2306.09224.pdf) [[code]](https://github.com/google-research/google-research/tree/master/encyclopedic_vqa)
+- **[CMOTA]** Story Visualization by Online Text Augmentation with Context Memory [[pdf]](https://arxiv.org/pdf/2308.07575.pdf) [[code]](https://github.com/yonseivnl/cmota)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
 - Image Captioners Are Scalable Vision Learners Too [[pdf]](https://arxiv.org/pdf/2306.07915.pdf)
