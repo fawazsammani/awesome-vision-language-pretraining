@@ -271,6 +271,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Zero-Shot Video Captioning with Evolving Pseudo-Tokens [[pdf]](https://arxiv.org/pdf/2207.11100.pdf) [[code]](https://github.com/YoadTew/zero-shot-video-to-text)
 - What does CLIP know about a red circle? Visual prompt engineering for VLMs [[pdf]](https://arxiv.org/pdf/2304.06712.pdf)
 - Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978.pdf) [[code]](https://github.com/CEWu/PTNL)
+- Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks [[pdf]](https://arxiv.org/pdf/2307.06795.pdf) [[code]](https://github.com/FactoDeepLearning/MultitaskVLFM)
 - CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
 - Fast Zero Shot Object Detection with OpenAI CLIP [[video]](https://www.youtube.com/watch?v=i3OYlaoj-BM&ab_channel=JamesBriggs)
 - [CLIP Varaints](https://github.com/lucidrains/x-clip)
