@@ -244,7 +244,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[LaFTer]** Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections [[pdf]](https://arxiv.org/pdf/2305.18287.pdf)
 - **[TAP]** Targeted Prompting for Task Adaptive Generation of Textual Training Instances for Visual Classification [[pdf]](https://arxiv.org/pdf/2309.06809.pdf)
 - **[CLIP-Adapter]** Better Vision-Language Models with Feature Adapters [[pdf]](https://arxiv.org/pdf/2110.04544.pdf) [[code]](https://github.com/gaopengcuhk/CLIP-Adapter)
-- **[Tip-Adapter]** Training-free CLIP-Adapter for Better Vision-Language Modeling [[pdf]](https://arxiv.org/pdf/2111.03930.pdf) [[code]](https://github.com/gaopengcuhk/Tip-Adapter)
+- **[Tip-Adapter]** Training-free Adaption of CLIP for Few-shot Classification [[pdf]](https://arxiv.org/pdf/2207.09519.pdf) [[code]](https://github.com/gaopengcuhk/Tip-Adapter)
 - **[CALIP]** Zero-Shot Enhancement of CLIP with Parameter-free Attention [[pdf]](https://arxiv.org/pdf/2209.14169.pdf) [[code]](https://github.com/ZiyuGuo99/CALIP)
 - **[CaFo]** Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners [[pdf]](https://arxiv.org/pdf/2303.02151.pdf) [[code]](https://github.com/ZrrSkywalker/CaFo)
 - **[SHIP]** Improving Zero-Shot Generalization for CLIP with Synthesized Prompts [[pdf]](https://arxiv.org/pdf/2307.07397.pdf) [[code]](https://github.com/mrflogs/SHIP)
