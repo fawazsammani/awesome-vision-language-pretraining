@@ -176,6 +176,8 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[Encyclopedic VQA]** Visual questions about detailed properties of fine-grained categories [[pdf]](https://arxiv.org/pdf/2306.09224.pdf) [[code]](https://github.com/google-research/google-research/tree/master/encyclopedic_vqa)
 - **[CMOTA]** Story Visualization by Online Text Augmentation with Context Memory [[pdf]](https://arxiv.org/pdf/2308.07575.pdf) [[code]](https://github.com/yonseivnl/cmota)
 - **[CPT]** CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models [[pdf]](https://arxiv.org/pdf/2109.11797.pdf) [[code]](https://github.com/thunlp/CPT)
+- **[TeS]** Improved Visual Fine-tuning with Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2304.01489.pdf) [[code]](https://github.com/idstcv/TeS)
+- **[MP]** Tuning Pre-trained Model via Moment Probing [[pdf]](https://arxiv.org/pdf/2307.11342.pdf) [[code]](https://github.com/mingzeG/Moment-Probing)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
 - Image Captioners Are Scalable Vision Learners Too [[pdf]](https://arxiv.org/pdf/2306.07915.pdf)
