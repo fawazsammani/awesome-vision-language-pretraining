@@ -265,6 +265,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[APE]** Enhancing Few-shot CLIP with Adaptive Prior Refinement [[pdf]](https://arxiv.org/pdf/2304.01195.pdf) [[code]](https://github.com/yangyangyang127/APE)
 - **[CuPL]** Generating customized prompts for zero-shot image classification [[pdf]](https://arxiv.org/pdf/2209.03320.pdf) [[code]](https://github.com/sarahpratt/CuPL)
 - **[WaffleCLIP]** Visual Classification with Random Words and Broad Concepts [[pdf]](https://arxiv.org/pdf/2306.07282.pdf) [[code]](https://github.com/ExplainableML/WaffleCLIP)
+- **[R-AMT]** Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models [[pdf]](https://arxiv.org/pdf/2307.15049.pdf) [[code]](https://github.com/wuw2019/R-AMT) [[website]](https://wuw2019.github.io/R-AMT/)
 - **[SVL-Adapter]** Self-Supervised Adapter for Vision-Language Pretrained Models [[pdf]](https://arxiv.org/pdf/2210.03794.pdf) [[code]](https://github.com/omipan/svl_adapter)
 - **[KAPT]** Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models [[pdf]](https://arxiv.org/pdf/2308.11186.pdf)
 - **[SuS-X]** Training-Free Name-Only Transfer of Vision-Language Models [[pdf]](https://arxiv.org/pdf/2211.16198.pdf) [[code]](https://github.com/vishaal27/SuS-X)
