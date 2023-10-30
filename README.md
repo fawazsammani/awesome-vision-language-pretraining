@@ -179,6 +179,8 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[CPT]** CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models [[pdf]](https://arxiv.org/pdf/2109.11797.pdf) [[code]](https://github.com/thunlp/CPT)
 - **[TeS]** Improved Visual Fine-tuning with Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2304.01489.pdf) [[code]](https://github.com/idstcv/TeS)
 - **[MP]** Tuning Pre-trained Model via Moment Probing [[pdf]](https://arxiv.org/pdf/2307.11342.pdf) [[code]](https://github.com/mingzeG/Moment-Probing)
+- **[Grounding DINO]** Marrying DINO with Grounded Pre-Training for Open-Set Object Detection [[pdf]](https://arxiv.org/pdf/2303.05499.pdf) [[code]](https://github.com/IDEA-Research/GroundingDINO) [[colab]](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-grounding-dino.ipynb) [[demo]](https://huggingface.co/spaces/ShilongLiu/Grounding_DINO_demo)
+- **[LangSAM]** Language Segment-Anything [[github]](https://github.com/luca-medeiros/lang-segment-anything) [[blog]](https://lightning.ai/pages/community/lang-segment-anything-object-detection-and-segmentation-with-text-prompt/)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
 - Image Captioners Are Scalable Vision Learners Too [[pdf]](https://arxiv.org/pdf/2306.07915.pdf)
