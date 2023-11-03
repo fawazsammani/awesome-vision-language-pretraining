@@ -69,7 +69,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[BEiT-3]** Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2208.10442.pdf) [[code]](https://github.com/microsoft/unilm/tree/master/beit3)
 - **[UniCL]** Unified Contrastive Learning in Image-Text-Label Space [[pdf]](https://arxiv.org/pdf/2204.03610.pdf) [[code]](https://github.com/microsoft/UniCL)
 - **[UVLP]** Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment [[pdf]](https://arxiv.org/pdf/2203.00242.pdf)
-- **[OFA]** Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework [[pdf]](https://arxiv.org/pdf/2202.03052.pdf) [[code]](https://github.com/OFA-Sys/OFA) [[VQA demo]](https://huggingface.co/spaces/OFA-Sys/OFA-vqa)
+- **[OFA]** Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework [[pdf]](https://arxiv.org/pdf/2202.03052.pdf) [[code]](https://github.com/OFA-Sys/OFA) [[models and demos]](https://huggingface.co/OFA-Sys)
 - **[GPV-1]** Towards General Purpose Vision Systems: An End-to-End Task-Agnostic Vision-Language Architecture [[pdf]](https://arxiv.org/pdf/2104.00743.pdf) [[code]](https://github.com/allenai/gpv-1/) [[website]](https://prior.allenai.org/projects/gpv)
 - **[GPV-2]** Webly Supervised Concept Expansion for General Purpose Vision Models [[pdf]](https://arxiv.org/pdf/2202.02317.pdf) [[code]](https://github.com/allenai/gpv2/) [[website]](https://prior.allenai.org/projects/gpv2)
 - **[TCL]** Vision-Language Pre-Training with Triple Contrastive Learning [[pdf]](https://arxiv.org/pdf/2202.10401.pdf) [[code]](https://github.com/uta-smile/TCL)
