@@ -305,7 +305,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - A Better Variant of Self-Critical Sequence Training [[pdf]](https://arxiv.org/pdf/2003.09971.pdf) [[code]](https://github.com/ruotianluo/self-critical.pytorch)
 - Fine-grained Image Captioning with CLIP Reward [[pdf]](https://arxiv.org/pdf/2205.13115.pdf) [[code]](https://github.com/j-min/CLIP-Caption-Reward)
 - Distinctive Image Captioning via CLIP Guided Group Optimization [[pdf]](https://arxiv.org/pdf/2208.04254.pdf)
-- Multimodal Knowledge Alignment with Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2205.12630.pdf)
 
 ## Multimodal-based Segmentation
 - **[SAM]** Segment Anything [[pdf]](https://arxiv.org/pdf/2304.02643.pdf) [[code]](https://github.com/facebookresearch/segment-anything) [[code]](https://huggingface.co/docs/transformers/model_doc/sam) [[blog]](https://segment-anything.com/) [[demo]](https://segment-anything.com/demo) [[notebook]](https://github.com/facebookresearch/segment-anything/blob/main/notebooks/predictor_example.ipynb) [[notebook]](https://github.com/huggingface/notebooks/blob/main/examples/segment_anything.ipynb)
