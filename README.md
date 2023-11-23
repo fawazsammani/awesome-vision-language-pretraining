@@ -347,6 +347,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts [[pdf]](https://arxiv.org/pdf/2010.15980.pdf)
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903.pdf) [[blog]](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html?m=1)
 - Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models [[pdf]](https://arxiv.org/pdf/2305.04091.pdf) [[code]](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)
+- System 2 Attention (is something you might need too) [[pdf]](https://arxiv.org/pdf/2311.11829.pdf)
 - Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [[pdf]](https://arxiv.org/pdf/2305.04388.pdf)
 - Large Language Models Can Self-Improve [[pdf]](https://arxiv.org/pdf/2210.11610v2.pdf)
 - An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [[pdf]](https://arxiv.org/pdf/2208.01618.pdf) [[code]](https://github.com/rinongal/textual_inversion) [[code]](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion) [[website]](https://textual-inversion.github.io/) [[blog]](https://medium.com/@onkarmishra/how-textual-inversion-works-and-its-applications-5e3fda4aa0bc)
