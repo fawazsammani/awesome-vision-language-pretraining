@@ -360,6 +360,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Exploring Demonstration Ensembling for In-context Learning [[pdf]](https://openreview.net/pdf?id=9kK4R_8nAsD)
 - Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations [[pdf]](https://arxiv.org/pdf/2212.09865.pdf) [[code]](https://github.com/alrope123/z-icl)
 - Variational Prompt Tuning Improves Generalization of Vision-Language Models [[pdf]](https://openreview.net/pdf?id=lJ5KlMWUzB)
+- Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves [[pdf]](https://arxiv.org/pdf/2311.04205.pdf) [[code]](https://github.com/uclaml/Rephrase-and-Respond) [[website]](https://uclaml.github.io/Rephrase-and-Respond/)
 
 ## New Large-Scale Datasets
 - **[VisualCOMET]** Reasoning about the Dynamic Context of a Still Image [[pdf]](https://arxiv.org/pdf/2004.10796.pdf) [[website]](https://visualcomet.xyz/)
