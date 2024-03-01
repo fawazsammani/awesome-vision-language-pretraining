@@ -250,7 +250,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[RPO]** Read-only Prompt Optimization for Vision-Language Few-shot Learning [[pdf]](https://arxiv.org/pdf/2308.14960.pdf) [[code]](https://github.com/mlvlab/RPO)
 - **[KgCoOp]** Visual-Language Prompt Tuning with Knowledge-guided Context Optimization [[pdf]](https://arxiv.org/pdf/2303.13283.pdf) [[code]](https://github.com/htyao89/KgCoOp)
 - **[ECO]** Ensembling Context Optimization for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2307.14063.pdf)
-- **[VPT]** Visual Prompt Tuning [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/kmnp/vpt)
 - **[UPT]** Unified Vision and Language Prompt Learning [[pdf]](https://arxiv.org/pdf/2210.07225.pdf) [[code]](https://github.com/yuhangzang/UPT)
 - **[UPL]** Unsupervised Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL)
 - **[ProDA]** Prompt Distribution Learning [[pdf]](https://arxiv.org/pdf/2205.03340.pdf)
@@ -344,6 +343,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 
 - The Power of Scale for Parameter-Efficient Prompt Tuning [[pdf]](https://arxiv.org/pdf/2104.08691.pdf) [[code]](https://github.com/google-research/prompt-tuning) [[code]](https://huggingface.co/docs/peft/task_guides/clm-prompt-tuning) [[blog]](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html?m=1) [[blog]](https://heidloff.net/article/introduction-to-prompt-tuning/)
 - Prefix-Tuning: Optimizing Continuous Prompts for Generation [[pdf]](https://arxiv.org/pdf/2101.00190.pdf) [[code]](https://github.com/XiangLi1999/PrefixTuning)
+- Visual Prompt Tuning [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/kmnp/vpt)
 - GPT Understands, Too [[pdf]](https://arxiv.org/pdf/2103.10385.pdf) [[code]](https://github.com/THUDM/P-tuning)
 - Making Pre-trained Language Models Better Few-shot Learners [[pdf]](https://arxiv.org/pdf/2012.15723.pdf) [[code]](https://github.com/princeton-nlp/LM-BFF)
 - AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts [[pdf]](https://arxiv.org/pdf/2010.15980.pdf)
