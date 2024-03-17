@@ -285,6 +285,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[TPT]** Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2209.07511.pdf) [[code]](https://github.com/azshue/TPT) [[website]](https://azshue.github.io/TPT/)
 - **[ReCLIP]** A Strong Zero-Shot Baseline for Referring Expression Comprehension [[pdf]](https://arxiv.org/pdf/2204.05991.pdf)
 - **[PLOT]** Prompt Learning with Optimal Transport for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.01253.pdf) [[code]](https://github.com/CHENGY12/PLOT)
+- **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878.pdf) [[code]](https://github.com/WalBouss/GEM) [[demo]](https://huggingface.co/spaces/WalidBouss/GEM)
 - **[SynthCLIP]** Are We Ready for a Fully Synthetic CLIP Training? [[pdf]](https://arxiv.org/pdf/2402.01832.pdf) [[code]](https://github.com/hammoudhasan/SynthCLIP) [[dataset]](https://huggingface.co/datasets/hammh0a/SynthCLIP)
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
 - Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053.pdf) [[code]](https://github.com/Weixin-Liang/Modality-Gap) [[website]](https://modalitygap.readthedocs.io/en/latest/)
@@ -401,6 +402,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - [scene graphs](https://github.com/huoxingmeishi/Awesome-Scene-Graphs)
 
 ### Survey Papers
+- The (R)Evolution of Multimodal Large Language Models: A Survey [[pdf]](https://arxiv.org/pdf/2402.12451.pdf)
 - Vision-Language Pre-training: Basics, Recent Advances, and Future Trends [[pdf]](https://arxiv.org/pdf/2210.09263.pdf)
 - A Survey of Vision-Language Pre-Trained Models [[pdf]](https://arxiv.org/pdf/2202.10936.pdf)
 - VLP: A Survey on Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2202.09061.pdf)
