@@ -111,7 +111,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[VLMAE]** Vision-Language Masked Autoencoder [[pdf]](https://arxiv.org/pdf/2208.09374.pdf)
 - **[MLIM]** Vision-and-Language Model Pre-training with Masked Language and Image Modeling [[pdf]](https://arxiv.org/pdf/2109.12178.pdf)
 - **[MOFI]** Learning Image Representations from Noisy Entity Annotated Images [[pdf]](https://arxiv.org/pdf/2306.07952.pdf)
-- **[Multimodal-CoT]** Multimodal Chain-of-Thought Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2302.00923.pdf) [[code]](https://github.com/amazon-science/mm-cot)
 - **[GILL]** Generating Images with Multimodal Language Models [[pdf]](https://arxiv.org/pdf/2305.17216.pdf) [[code]](https://github.com/kohjingyu/gill) [[website]](https://jykoh.com/gill)
 - **[Language Pivoting]** Unpaired Image Captioning by Language Pivoting [[pdf]](https://arxiv.org/pdf/1803.05526.pdf)
 - **[Graph-Align]** Unpaired Image Captioning via Scene Graph Alignments [[pdf]](https://arxiv.org/pdf/1903.10658.pdf)
