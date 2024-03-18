@@ -315,6 +315,11 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Fine-grained Image Captioning with CLIP Reward [[pdf]](https://arxiv.org/pdf/2205.13115.pdf) [[code]](https://github.com/j-min/CLIP-Caption-Reward)
 - Distinctive Image Captioning via CLIP Guided Group Optimization [[pdf]](https://arxiv.org/pdf/2208.04254.pdf)
 
+## Segmentation + Vision-Language
+- **[Semantic-SAM]** Segment and Recognize Anything at Any Granularity [[github]](https://github.com/UX-Decoder/Semantic-SAM)
+- **[SEEM]** Segment Everything Everywhere All at Once [[github]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+- **[GroundingDINO]** Marrying DINO with Grounded Pre-Training for Open-Set Object Detection [[github]](https://github.com/IDEA-Research/GroundingDINO) 
+
 ## Miscellaneous
 - SetFit: Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
 - LoRA: Low-Rank Adaptation of Large Language Models [[pdf]](https://arxiv.org/pdf/2106.09685.pdf) [[code]](https://github.com/microsoft/LoRA) [[code]](https://github.com/huggingface/peft) [[colab]](https://colab.research.google.com/drive/1jCkpikz0J2o20FBQmYmAGdiKmJGOMo-o?usp=sharing) [[video]](https://www.youtube.com/watch?v=KEv-F5UkhxU&ab_channel=AICoffeeBreakwithLetitia) [[blog]](https://huggingface.co/blog/peft) [[blog]](https://www.ml6.eu/blogpost/low-rank-adaptation-a-technical-deep-dive) [[blog]](https://medium.com/@abdullahsamilguser/lora-low-rank-adaptation-of-large-language-models-7af929391fee) [[blog]](https://towardsdatascience.com/understanding-lora-low-rank-adaptation-for-finetuning-large-models-936bce1a07c6) [[hf docs]](https://huggingface.co/docs/diffusers/training/lora) [[library]](https://huggingface.co/docs/peft/index) [[library tutorial]](https://huggingface.co/learn/cookbook/prompt_tuning_peft)
