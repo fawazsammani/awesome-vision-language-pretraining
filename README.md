@@ -214,7 +214,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[FLIP]** Scaling Language-Image Pre-training via Masking [[pdf]](https://arxiv.org/pdf/2212.00794.pdf) [[code]](https://github.com/facebookresearch/flip)
 - **[Counting-aware CLIP]** Teaching CLIP to Count to Ten [[pdf]](https://arxiv.org/pdf/2302.12066.pdf) [[website]](https://teaching-clip-to-count.github.io/) 
 - **[ALIP]** Adaptive Language-Image Pre-training with Synthetic Caption [[pdf]](https://arxiv.org/pdf/2308.08428.pdf) [[code]](https://github.com/deepglint/ALIP)
-- **[STAIR]** Learning Sparse Text and Image Representation in Grounded Tokens [[pdf]](https://arxiv.org/pdf/2301.13081.pdf)
 - **[FILIP]** Fine-grained Interactive Language-Image Pre-Training [[pdf]](https://arxiv.org/pdf/2111.07783.pdf)
 - **[SLIP]** Self-supervision meets Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2112.12750.pdf) [[code]](https://github.com/facebookresearch/SLIP)
 - **[WiSE-FT]** Robust fine-tuning of zero-shot models [[pdf]](https://arxiv.org/pdf/2109.01903.pdf) [[code]](https://github.com/mlfoundations/wise-ft)
