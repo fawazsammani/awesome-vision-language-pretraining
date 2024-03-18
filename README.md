@@ -318,7 +318,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 ## Segmentation + Vision-Language
 - **[Semantic-SAM]** Segment and Recognize Anything at Any Granularity [[github]](https://github.com/UX-Decoder/Semantic-SAM)
 - **[SEEM]** Segment Everything Everywhere All at Once [[github]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
-- **[GroundingDINO]** Marrying DINO with Grounded Pre-Training for Open-Set Object Detection [[github]](https://github.com/IDEA-Research/GroundingDINO) 
+- **[Grounding DINO]** Marrying DINO with Grounded Pre-Training for Open-Set Object Detection [[github]](https://github.com/IDEA-Research/GroundingDINO) 
 
 ## Miscellaneous
 - SetFit: Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
