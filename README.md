@@ -339,7 +339,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM [[code]](https://github.com/databrickslabs/dolly) [[models]](https://huggingface.co/databricks)
 - Mistral [[models]](https://huggingface.co/mistralai)
 - Mixture of Experts LLM [[hf collections]](https://huggingface.co/collections/mlabonne/mixture-of-experts-65980c40330942d1282b76f5) [[video]](https://www.youtube.com/watch?v=mwO6v4BlgZQ) [[notebook]](https://colab.research.google.com/drive/1k6C_oJfEKUq0mtuWKisvoeMHxTcIxWRa?usp=sharing) 
-- Gemma [[blog]](https://huggingface.co/blog/gemma) [[models]](https://huggingface.co/collections/google/gemma-release-65d5efbccdbb8c4202ec078b)
+- Gemma [[blog]](https://huggingface.co/blog/gemma) [[models]](https://huggingface.co/collections/google/gemma-release-65d5efbccdbb8c4202ec078b) [[bugs]](https://unsloth.ai/blog/gemma-bugs)
 - Grok-1 [[github]](https://github.com/xai-org/grok-1) [[blog]](https://x.ai/blog/grok) [[release blog]](https://x.ai/blog/grok-os) [[twitter post]](https://twitter.com/danielhanchen/status/1769550950270910630)
 - Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation [[pdf]](https://arxiv.org/pdf/2402.18334.pdf) [[code]](https://github.com/BatsResearch/bonito)
 - Large Language Models Are Reasoning Teachers [[pdf]](https://arxiv.org/pdf/2212.10071.pdf) [[code]](https://github.com/itsnamgyu/reasoning-teacher)
