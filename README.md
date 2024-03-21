@@ -59,7 +59,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[VIVO]** Visual Vocabulary Pre-Training for Novel Object Captioning [[pdf]](https://arxiv.org/pdf/2009.13682.pdf)
 - **[SOHO]** End-to-End Pre-training for Vision-Language Representation Learning [[pdf]](https://arxiv.org/pdf/2104.03135.pdf) [[code]](https://github.com/researchmm/soho)
 - **[Pixel-BERT]** Aligning Image Pixels with Text by Deep Multi-Modal Transformers [[pdf]](https://arxiv.org/pdf/2004.00849.pdf)
-- **[VLKD]** Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation [[pdf]](https://arxiv.org/pdf/2203.06386.pdf)
 - **[LightningDOT]** Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval [[pdf]](https://arxiv.org/pdf/2103.08784.pdf) [[code]](https://github.com/intersun/LightningDOT)
 - **[VirTex]** Learning Visual Representations from Textual Annotations [[pdf]](https://arxiv.org/pdf/2006.06666.pdf) [[code]](https://github.com/kdexd/virtex)
 - **[Uni-Perceiver]** Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks [[pdf]](https://arxiv.org/pdf/2112.01522.pdf) [[code]](https://github.com/fundamentalvision/Uni-Perceiver)
