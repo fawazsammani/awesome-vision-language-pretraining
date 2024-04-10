@@ -259,7 +259,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[CLIP-Adapter]** Better Vision-Language Models with Feature Adapters [[pdf]](https://arxiv.org/pdf/2110.04544.pdf) [[code]](https://github.com/gaopengcuhk/CLIP-Adapter)
 - **[Tip-Adapter]** Training-free Adaption of CLIP for Few-shot Classification [[pdf]](https://arxiv.org/pdf/2207.09519.pdf) [[code]](https://github.com/gaopengcuhk/Tip-Adapter)
 - **[CALIP]** Zero-Shot Enhancement of CLIP with Parameter-free Attention [[pdf]](https://arxiv.org/pdf/2209.14169.pdf) [[code]](https://github.com/ZiyuGuo99/CALIP)
-- **[CaFo]** Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners [[pdf]](https://arxiv.org/pdf/2303.02151.pdf) [[code]](https://github.com/ZrrSkywalker/CaFo)
 - **[SHIP]** Improving Zero-Shot Generalization for CLIP with Synthesized Prompts [[pdf]](https://arxiv.org/pdf/2307.07397.pdf) [[code]](https://github.com/mrflogs/SHIP)
 - **[LoGoPrompt]** Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2309.01155.pdf) [[website]](https://chengshiest.github.io/logo/)
 - **[GRAM]** Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models [[pdf]](https://arxiv.org/pdf/2303.06571.pdf)
