@@ -296,7 +296,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet [[pdf]](https://arxiv.org/pdf/2212.06138.pdf) [[code]](https://github.com/LightDXY/FT-CLIP)
 - Zero-Shot Video Captioning with Evolving Pseudo-Tokens [[pdf]](https://arxiv.org/pdf/2207.11100.pdf) [[code]](https://github.com/YoadTew/zero-shot-video-to-text)
 - What does CLIP know about a red circle? Visual prompt engineering for VLMs [[pdf]](https://arxiv.org/pdf/2304.06712.pdf)
-- Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978.pdf) [[code]](https://github.com/CEWu/PTNL)
 - Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks [[pdf]](https://arxiv.org/pdf/2307.06795.pdf) [[code]](https://github.com/FactoDeepLearning/MultitaskVLFM)
 - Image-based CLIP-Guided Essence Transfer [[pdf]](https://arxiv.org/pdf/2110.12427.pdf) [[code]](https://github.com/hila-chefer/TargetCLIP)
