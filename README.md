@@ -187,6 +187,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[CPT]** CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models [[pdf]](https://arxiv.org/pdf/2109.11797.pdf) [[code]](https://github.com/thunlp/CPT)
 - **[TeS]** Improved Visual Fine-tuning with Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2304.01489.pdf) [[code]](https://github.com/idstcv/TeS)
 - **[MP]** Tuning Pre-trained Model via Moment Probing [[pdf]](https://arxiv.org/pdf/2307.11342.pdf) [[code]](https://github.com/mingzeG/Moment-Probing)
+- **[SmolVLM]** Small yet mighty Vision Language Model [[blog]](https://huggingface.co/blog/smolvlm) [[code]](https://github.com/huggingface/smollm) [[mode]](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) [[finetune demo]](https://github.com/huggingface/smollm/blob/main/finetuning/Smol_VLM_FT.ipynb) [[demo]](https://huggingface.co/spaces/HuggingFaceTB/SmolVLM)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
 - Image Captioners Are Scalable Vision Learners Too [[pdf]](https://arxiv.org/pdf/2306.07915.pdf)
