@@ -136,12 +136,13 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[KOSMOS-1]** Language Is Not All You Need: Aligning Perception with Language Models [[pdf]](https://arxiv.org/pdf/2302.14045.pdf) [[code]](https://github.com/microsoft/unilm)
 - **[KOSMOS-2]** Grounding Multimodal Large Language Models to the World [[pdf]](https://openreview.net/pdf?id=lLmqxkfSIw) [[code]](https://github.com/microsoft/unilm/tree/master/kosmos-2) [[hf docs]](https://huggingface.co/docs/transformers/model_doc/kosmos-2) [[hf notebook]](https://github.com/NielsRogge/Transformers-Tutorials/blob/master/KOSMOS-2/Inference_with_KOSMOS_2_for_multimodal_grounding.ipynb) [[demo]](https://huggingface.co/spaces/ydshieh/Kosmos-2)
 - **[MultiModal-GPT]** A Vision and Language Model for Dialogue with Humans [[pdf]](https://arxiv.org/pdf/2305.04790.pdf) [[code]](https://github.com/open-mmlab/Multimodal-GPT)
-- **[LLaVA Series]** All LLava Models [[LLava]](https://github.com/haotian-liu/LLaVA) [[hf docs]](https://huggingface.co/docs/transformers/en/model_doc/llava) [[tutorial]](https://github.com/NielsRogge/Transformers-Tutorials/blob/master/LLaVa/Inference_with_LLaVa_for_multimodal_generation.ipynb) [[LLaVA-NeXT]](https://github.com/LLaVA-VL/LLaVA-NeXT/) [[hf docs]](https://huggingface.co/docs/transformers/en/model_doc/llava_next) [[hf docs]](https://huggingface.co/docs/transformers/main/en/model_doc/llava_onevision) [[demo]](https://huggingface.co/spaces/merve/llava-next) [[hf card]](https://huggingface.co/llava-hf)
+- **[LLaVA Series]** All LLava Models [[LLava]](https://github.com/haotian-liu/LLaVA) [[hf docs]](https://huggingface.co/docs/transformers/en/model_doc/llava) [[tutorial]](https://github.com/NielsRogge/Transformers-Tutorials/blob/master/LLaVa/Inference_with_LLaVa_for_multimodal_generation.ipynb) [[LLaVA-NeXT]](https://github.com/LLaVA-VL/LLaVA-NeXT/) [[hf docs]](https://huggingface.co/docs/transformers/en/model_doc/llava_next) [[hf docs]](https://huggingface.co/docs/transformers/main/en/model_doc/llava_onevision) [[demo]](https://huggingface.co/spaces/merve/llava-next) [[hf card]](https://huggingface.co/llava-hf) [[LLaVA-CoT]](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 - **[InternVL]** A Pioneering Open-Source Alternative to GPT-4o [[github]](https://github.com/OpenGVLab/InternVL)
 - **[MiniCPM-V]** A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone [[pdf]](https://arxiv.org/pdf/2408.01800) [[code]](https://github.com/OpenBMB/MiniCPM-V)
 - **[LLaVA-MORE]** Enhancing Visual Instruction Tuning with LLaMA 3.1 [[github]](https://github.com/aimagelab/LLaVA-MORE)
 - **[ViP-LLaVA]** Making Large Multimodal Models Understand Arbitrary Visual Prompts [[pdf]](https://arxiv.org/pdf/2312.00784.pdf) [[code]](https://github.com/mu-cai/vip-llava) [[demo]](https://pages.cs.wisc.edu/~mucai/vip-llava.html) [[website]](https://vip-llava.github.io/) [[hf notebook]](https://github.com/NielsRogge/Transformers-Tutorials/blob/master/ViP-LLaVa/Inference_with_ViP_LLaVa_for_fine_grained_VQA.ipynb) [[hf docs]](https://huggingface.co/docs/transformers/model_doc/vipllava)
-- **[Qwen-VL]** A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [[pdf]](https://arxiv.org/pdf/2308.12966) [[code]](https://github.com/QwenLM/Qwen-VL) [[tutorial]](https://github.com/QwenLM/Qwen-VL/blob/master/TUTORIAL.md) [[blog]](https://qwenlm.github.io/blog/qwen-vl/) [[blog]](https://qwenlm.github.io/blog/qwen2-vl/) [[hf card]](https://huggingface.co/Qwen)
+- **[Qwen-VL]** A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [[pdf]](https://arxiv.org/pdf/2308.12966) [[code]](https://github.com/QwenLM/Qwen-VL) [[tutorial]](https://github.com/QwenLM/Qwen-VL/blob/master/TUTORIAL.md) [[blog]](https://qwenlm.github.io/blog/qwen-vl/) [[blog]](https://qwenlm.github.io/blog/qwen2-vl/) 
+- **[Qwen2-VL]** Enhancing Vision-Language Model’s Perception of the World at Any Resolution [[pdf]](https://arxiv.org/pdf/2409.12191) [[code]](https://github.com/QwenLM/Qwen2-VL) [[hf card]](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d) [[demo]](https://huggingface.co/spaces/Qwen/Qwen2-VL)
 - **[VILA]** On Pre-training for Visual Language Models [[pdf]](https://arxiv.org/pdf/2312.07533.pdf) [[code]](https://github.com/Efficient-Large-Model/VILA) [[hf page]](https://huggingface.co/Efficient-Large-Model) 
 - **[NExT-Chat]** An LMM for Chat, Detection and Segmentation [[pdf]](https://github.com/NExT-ChatV/NExT-Chat/blob/main/NExT_Chat.pdf) [[code]](https://github.com/NExT-ChatV/NExT-Chat) [[demo]](https://516398b33beb3e8b9f.gradio.live/) [[website]](https://next-chatv.github.io/)
 - **[MiniGPT-4]** Enhancing Vision-Language Understanding with Advanced Large Language Models [[pdf]](https://openreview.net/attachment?id=1tZbq88f27&name=pdf) [[code]](https://github.com/Vision-CAIR/MiniGPT-4) [[website]](https://minigpt-4.github.io/) [[demo]](https://huggingface.co/spaces/Vision-CAIR/minigpt4) 
@@ -188,6 +189,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[TeS]** Improved Visual Fine-tuning with Natural Language Supervision [[pdf]](https://arxiv.org/pdf/2304.01489.pdf) [[code]](https://github.com/idstcv/TeS)
 - **[MP]** Tuning Pre-trained Model via Moment Probing [[pdf]](https://arxiv.org/pdf/2307.11342.pdf) [[code]](https://github.com/mingzeG/Moment-Probing)
 - **[SmolVLM]** Small yet mighty Vision Language Model [[blog]](https://huggingface.co/blog/smolvlm) [[code]](https://github.com/huggingface/smollm) [[mode]](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) [[finetune demo]](https://github.com/huggingface/smollm/blob/main/finetuning/Smol_VLM_FT.ipynb) [[demo]](https://huggingface.co/spaces/HuggingFaceTB/SmolVLM)
+- **[AIMV2]** Multimodal Autoregressive Pre-training of Large Vision Encoders [[pdf]](https://arxiv.org/pdf/2411.14402) [[code]](https://github.com/apple/ml-aim) [[hf collection]](https://huggingface.co/collections/apple/aimv2-6720fe1558d94c7805f7688c)
 - Multimodal Contrastive Training for Visual Representation Learning [[pdf]](https://arxiv.org/pdf/2104.12836.pdf)
 - Learning Visual Representations via Language-Guided Sampling [[pdf]](https://arxiv.org/pdf/2302.12248.pdf)
 - Image Captioners Are Scalable Vision Learners Too [[pdf]](https://arxiv.org/pdf/2306.07915.pdf)
@@ -292,6 +294,8 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - **[PLOT]** Prompt Learning with Optimal Transport for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.01253.pdf) [[code]](https://github.com/CHENGY12/PLOT)
 - **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878.pdf) [[code]](https://github.com/WalBouss/GEM) [[demo]](https://huggingface.co/spaces/WalidBouss/GEM)
 - **[SynthCLIP]** Are We Ready for a Fully Synthetic CLIP Training? [[pdf]](https://arxiv.org/pdf/2402.01832.pdf) [[code]](https://github.com/hammoudhasan/SynthCLIP) [[dataset]](https://huggingface.co/datasets/hammh0a/SynthCLIP)
+- **[MirrorCLIP]** Disentangling text from visual images through reflection [[pdf]](https://openreview.net/pdf?id=FYm8coxdiR) [[code]](https://github.com/tcwangbuaa/MirrorCLIP)
+- **[WATT]** Weight Average Test-Time Adaptation of CLIP [[pdf]](https://openreview.net/pdf?id=4D7hnJ9oM6) [[code]](https://github.com/Mehrdad-Noori/WATT)
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
 - Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053.pdf) [[code]](https://github.com/Weixin-Liang/Modality-Gap) [[website]](https://modalitygap.readthedocs.io/en/latest/)
 - Enhancing CLIP with GPT-4: Harnessing Visual Descriptions as Prompts [[pdf]](https://arxiv.org/pdf/2307.11661.pdf) [[code]](https://github.com/mayug/VDT-Adapter)
@@ -310,6 +314,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Unsupervised Semantic Image Segmentation with Stylegan and CLIP [[pdf]](https://arxiv.org/pdf/2107.12518.pdf) [[code]](https://github.com/warmspringwinds/segmentation_in_style)
 - Exploring Visual Prompts for Adapting Large-Scale Models [[pdf]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) [[website]](https://hjbahng.github.io/visual_prompting/)
 - CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
+- Exploring the Visual Shortcomings of Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2401.06209)
 - Fast Zero Shot Object Detection with OpenAI CLIP [[video]](https://www.youtube.com/watch?v=i3OYlaoj-BM&ab_channel=JamesBriggs)
 - [CLIP Varaints](https://github.com/lucidrains/x-clip)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
@@ -319,11 +324,13 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - A Better Variant of Self-Critical Sequence Training [[pdf]](https://arxiv.org/pdf/2003.09971.pdf) [[code]](https://github.com/ruotianluo/self-critical.pytorch)
 - Fine-grained Image Captioning with CLIP Reward [[pdf]](https://arxiv.org/pdf/2205.13115.pdf) [[code]](https://github.com/j-min/CLIP-Caption-Reward)
 - Distinctive Image Captioning via CLIP Guided Group Optimization [[pdf]](https://arxiv.org/pdf/2208.04254.pdf)
+- Revisiting Image Captioning Training Paradigm via Direct CLIP-based Optimization [[pdf]](https://www.arxiv.org/pdf/2408.14547)
 
 ## Segmentation + Vision-Language
 - **[Semantic-SAM]** Segment and Recognize Anything at Any Granularity [[github]](https://github.com/UX-Decoder/Semantic-SAM)
 - **[SEEM]** Segment Everything Everywhere All at Once [[github]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
-- **[Grounding DINO]** Marrying DINO with Grounded Pre-Training for Open-Set Object Detection [[github]](https://github.com/IDEA-Research/GroundingDINO) 
+- **[Grounding DINO]** Marrying DINO with Grounded Pre-Training for Open-Set Object Detection [[github]](https://github.com/IDEA-Research/GroundingDINO)
+- **[DINO-X]** A Unified Vision Model for Open-World Object Detection and Understanding [[github]](https://github.com/IDEA-Research/DINO-X-API)
 
 ## Miscellaneous
 - SetFit: Efficient Few-Shot Learning Without Prompts [[pdf]](https://arxiv.org/pdf/2209.11055.pdf) [[code]](https://github.com/huggingface/setfit) [[blog]](https://huggingface.co/blog/setfit)
@@ -334,6 +341,8 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - ChatGPT [[blog]](https://openai.com/blog/chatgpt/) [[RLHF]](https://arxiv.org/pdf/2009.01325.pdf) [[InstructGPT]](https://arxiv.org/pdf/2203.02155.pdf) [[InstructGPT blog]](https://openai.com/blog/instruction-following/) [[rlhf hf]](https://huggingface.co/blog/rlhf) [[rlhf wandb]](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx) [[code]](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 - SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions [[pdf]](https://arxiv.org/pdf/2212.10560.pdf) [[code]](https://github.com/yizhongw/self-instruct)
 - Mistral [[models]](https://huggingface.co/mistralai)
+- Qwen [[models]](https://huggingface.co/Qwen)
+- SmolLM2 [[github]](https://github.com/huggingface/smollm)
 - Mixture of Experts LLM [[hf collections]](https://huggingface.co/collections/mlabonne/mixture-of-experts-65980c40330942d1282b76f5) [[video]](https://www.youtube.com/watch?v=mwO6v4BlgZQ) [[notebook]](https://colab.research.google.com/drive/1k6C_oJfEKUq0mtuWKisvoeMHxTcIxWRa?usp=sharing) 
 - Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation [[pdf]](https://arxiv.org/pdf/2402.18334.pdf) [[code]](https://github.com/BatsResearch/bonito)
 - Large Language Models Are Reasoning Teachers [[pdf]](https://arxiv.org/pdf/2212.10071.pdf) [[code]](https://github.com/itsnamgyu/reasoning-teacher)
@@ -350,7 +359,7 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Finetuned Language Models Are Zero-Shot Learners [[pdf]](https://arxiv.org/pdf/2109.01652.pdf)
 - [Falcon LLM](https://huggingface.co/tiiuae)
 - [x-transformers](https://github.com/lucidrains/x-transformers)
-- LLM Resources [mlabonne](https://github.com/mlabonne/llm-course) [[wandb](https://www.wandb.courses/courses/training-fine-tuning-LLMs) [[train and deploy]](https://www.youtube.com/watch?v=Ma4clS-IdhA&t=1709s) [[supervised FT]](https://www.youtube.com/watch?v=NXevvEF3QVI&t=1s) [[how LLM Chatbots work]](https://www.youtube.com/watch?v=C6ZszXYPDDw&t=26s) [[finetuning tutorial]](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) [[pytorch finetuning tutorial]](https://pytorch.org/blog/finetune-llms/?utm_content=278057355&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366) [[finetuning tutorial]](https://huggingface.co/learn/cookbook/fine_tuning_code_llm_on_single_gpu) 
+- LLM Resources [mlabonne](https://github.com/mlabonne/llm-course) [[wandb](https://www.wandb.courses/courses/training-fine-tuning-LLMs) [[train and deploy]](https://www.youtube.com/watch?v=Ma4clS-IdhA&t=1709s) [[supervised FT]](https://www.youtube.com/watch?v=NXevvEF3QVI&t=1s) [[how LLM Chatbots work]](https://www.youtube.com/watch?v=C6ZszXYPDDw&t=26s) [[finetuning tutorial]](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) [[pytorch finetuning tutorial]](https://pytorch.org/blog/finetune-llms/?utm_content=278057355&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366) [[finetuning tutorial]](https://huggingface.co/learn/cookbook/fine_tuning_code_llm_on_single_gpu) [[hf youtube tutorial]](https://www.youtube.com/watch?v=2-SPH9hIKT8) [[hf slides]](https://docs.google.com/presentation/d/1uFd95VFSefD_Pom12kZ6q7ZppBJuT-T1vSGMUojDaBQ/edit#slide=id.p) [[andrej karpathy tutorials]](https://www.youtube.com/@AndrejKarpathy/videos)
 
 **Prompting**
 
@@ -388,6 +397,10 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - TorchMultimodal [[github]](https://github.com/facebookresearch/multimodal) [[blog]](https://pytorch.org/blog/introducing-torchmultimodal/) [[blog]](https://pytorch.org/blog/scaling-multimodal-foundation-models-in-torchmultimodal-with-pytorch-distributed/)
 - [Transformers-VQA](https://github.com/YIKUAN8/Transformers-VQA)
 - [MMT-Retrieval](https://github.com/UKPLab/MMT-Retrieval)
+
+### Evaluation
+- [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
+- [MMMU](https://mmmu-benchmark.github.io/)
 
 ### Projects
 - [Florence-VL](https://www.microsoft.com/en-us/research/project/project-florence-vl/)
