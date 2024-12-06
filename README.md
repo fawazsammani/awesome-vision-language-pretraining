@@ -303,7 +303,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - The Unreasonable Effectiveness of CLIP Features for Image Captioning: An Experimental Analysis [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/MULA/papers/Barraco_The_Unreasonable_Effectiveness_of_CLIP_Features_for_Image_Captioning_An_CVPRW_2022_paper.pdf)
 - Prompting Visual-Language Models for Efficient Video Understanding [[pdf]](https://arxiv.org/pdf/2112.04478.pdf)
 - Robust Cross-Modal Representation Learning with Progressive Self-Distillation [[pdf]](https://arxiv.org/pdf/2204.04588.pdf)
-- Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - CLIP Models are Few-shot Learners: Empirical Studies on VQA and Visual Entailment [[pdf]](https://arxiv.org/pdf/2203.07190.pdf)
 - CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet [[pdf]](https://arxiv.org/pdf/2212.06138.pdf) [[code]](https://github.com/LightDXY/FT-CLIP)
 - Zero-Shot Video Captioning with Evolving Pseudo-Tokens [[pdf]](https://arxiv.org/pdf/2207.11100.pdf) [[code]](https://github.com/YoadTew/zero-shot-video-to-text)
