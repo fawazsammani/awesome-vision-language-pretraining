@@ -314,7 +314,6 @@ Note: most pretrained models can be found on [hf models](https://huggingface.co/
 - Unsupervised Semantic Image Segmentation with Stylegan and CLIP [[pdf]](https://arxiv.org/pdf/2107.12518.pdf) [[code]](https://github.com/warmspringwinds/segmentation_in_style)
 - Exploring Visual Prompts for Adapting Large-Scale Models [[pdf]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) [[website]](https://hjbahng.github.io/visual_prompting/)
 - CLIP-Guided Diffusion [[code]](https://github.com/openai/guided-diffusion) [[code]](https://github.com/afiaka87/clip-guided-diffusion) [[code]](https://github.com/nerdyrodent/CLIP-Guided-Diffusion) [[code]](https://github.com/crowsonkb/v-diffusion-pytorch)
-- Exploring the Visual Shortcomings of Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2401.06209)
 - Fast Zero Shot Object Detection with OpenAI CLIP [[video]](https://www.youtube.com/watch?v=i3OYlaoj-BM&ab_channel=JamesBriggs)
 - [CLIP Varaints](https://github.com/lucidrains/x-clip)
 - [awesome-clip](https://github.com/yzhuoning/Awesome-CLIP)
